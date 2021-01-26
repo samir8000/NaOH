@@ -8,7 +8,7 @@ NaOH<sub>mass</sub> = 40 g/mol
 <br>
 ## Mass Calculation
 
-```python
+``` python
 print("Select a Reaction:")
 print("Reaction 1: NaOH + HCl ---> NaCl + H<sub>2</sub>O")
 reaction = input("Input 1, 2, 3, or 4: ")
