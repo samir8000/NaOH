@@ -9,14 +9,12 @@ NaOH<sub>mass</sub> = 40 g/mol
 ## Mass Calculation
 
 Select a Number:
-<script>
 <select name="Quantity" id="selection"> 
 <option value="Value1">1</option> 
 <option value="Value2">2</option> 
 <option value="Value3">3</option> 
 <option value="Value4">4</option> 
 </select>
-</script>
 Enter Something:
 <input type="string" name="Input1"/></input>
 
