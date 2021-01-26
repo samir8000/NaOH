@@ -8,7 +8,7 @@ hydrochloric acid + sodium hydroxide (base) ---> sodium chloride + water:<br>
 ## Chloralkali process (three methods):<br>
 [Read more]()
 ### Mercury cell method: 
-A sodium-mercury amalgam reacts with water forming Na+, OH-, H2, and Hg:<br>
+A sodium-mercury amalgam reacts with water forming Na+, OH-, H<sub>2</sub>, and Hg:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 Na (in Hg) + 2H<sub>2</sub>O ---> 2Na+ + 2OH- + H<sub>2</sub> + Hg<br>
 <br>The sodium and hydroxide ions then react forming sodium hydroxide:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na+ + OH- ---> NaOH<br><br>
