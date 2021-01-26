@@ -35,7 +35,7 @@ A solution of sodium hydroxide (main constituent) and sodium sulfate is used to 
 Residuals from the kraft process can be recycled into sodium hydroxide (which can be reused for the main process)<br>
 <br>
 Sodium sulfate is reacted with carbon under high temperatures to form sodium sulfate and carbon dioxide:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na2SO4 + 2 C + heat ---> Na<sub>2</sub>S + 2 CO<sub>2</sub><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na<sub>2</sub>SO<sub>4</sub> + 2 C + heat ---> Na<sub>2</sub>S + 2 CO<sub>2</sub><br>
 <br>	
 The products of the above reaction then react with oxygen forming sodium carbonate and sulfur 
 dioxide:<br>
@@ -43,7 +43,7 @@ dioxide:<br>
 	
 These products are dissolved in water and calcium oxide is added, which reacts with the water 
 forming calcium hydroxide:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaO + H2O ---> Ca(OH)<sub>2</sub><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaO + H<sub>2</sub>O ---> Ca(OH)<sub>2</sub><br>
 
 Calcium hydroxide reacts with the sodium carbonate forming calcium carbonate and sodium 
 hydroxide:<br>
