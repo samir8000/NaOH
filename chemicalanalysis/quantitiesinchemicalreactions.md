@@ -8,13 +8,22 @@ NaOH<sub>mass</sub> = 40 g/mol
 <br>
 ## Mass Calculation
 
-Select a Number:
-<select name="Quantity" id="selection"> 
-<option value="Value1">1</option> 
-<option value="Value2">2</option> 
-<option value="Value3">3</option> 
-<option value="Value4">4</option> 
-</select>
-Enter Something:
-<input type="string" name="Input1"/></input>
+Reaction: NaOH(aq) + HCl(aq) → NaCl(aq) + H<sub>2</sub>O(l)
+<br>
+- Na = 22.99g/mol
+- O = 16.00g/mol
+- H = 1.01g/mol
+- Cl = 35.45 g/mol
+<br>
+<br>
+- NaOH = 22.99g/mol + 16.00g/mol + 1.01g/mol 
+- NaOH = 40g/mol
+<br>
+- HCl = 1.01g/mol + 35.45g/mol
+- HCl = 36.46 g/mol
 
+- NaCl = 22.99g/mol + 35.45g/mol
+- NaCl 58.44g/mol
+
+- H<sub>2</sub>O = 2(1.01g/mol) + 16.00g/mol
+- H<sub>2</sub>O = 18.02g/mol
