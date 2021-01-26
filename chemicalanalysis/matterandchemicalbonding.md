@@ -63,7 +63,7 @@
 - Non-flammable
 - Toxic by oral ingestion
 - Highly corrosive
-- Strongly alkaline | pH(5% solution) = 14
+- Strongly alkaline ( pH(5% solution) = 14 )
 - Reacts rapidly with acids
 <br>
 <br>
