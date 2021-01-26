@@ -7,14 +7,24 @@
 
 ## Physical Properties of Bonding Elements
 
+|                             |                                                |:                                  :|:                      :|
+|                             | **Sodium**                                     |**Oxygen**                          |**Hydrogen**            |
 |                             |                                                |                                    |                        |
-|                             | Sodium                                         | Oxygen                             | Hydrogen               |
-|                             |                                                |                                    |                        |
-|-----------------------------|------------------------------------------------|------------------------------------|------------------------|
-| Molecular mass (g/mol)<br>      | 22.99                                          | 16.00                              | 1.01                   |
-| State at room temp<br>          | Solid                                          | Gas                                | Gas                    |
-| Colour<br>                      | Light, silver-white                            | Colourless (pale blue when liquid) | Colourless             |
-| Boiling point(°C)<br>           | 883                                            | -182.96                            | -252.87                |
-| Melting point(°C)<br>           | 97.8                                           | -218.79                            | -259.16                |
-| Density (g/cm<sup>3</sup>)<br>  | 0.97                                           | 0.001429 1.429*10<sup>-3</sup>     | 8.988*10<sup>-5</sup>  |
+|-----------------------------|:----------------------------------------------:|:----------------------------------:|:----------------------:|
+| Molecular mass (g/mol)      | 22.99                                          | 16.00                              | 1.01                   |
+| State at room temp          | Solid                                          | Gas                                | Gas                    |
+| Colour                      | Light, silver-white                            | Colourless (pale blue when liquid) | Colourless             |
+| Boiling point(°C)           | 883                                            | -182.96                            | -252.87                |
+| Melting point(°C)           | 97.8                                           | -218.79                            | -259.16                |
+| Density (g/cm<sup>3</sup>)  | 0.97                                           | 0.001429 1.429*10<sup>-3</sup>     | 8.988*10<sup>-5</sup>  |
 | Other Notable Properties    | Ductile<br>Conductive<br>Malleable<br>Lustrous | Tasteless<br>Odourless             | Tasteless<br>Odourless |
+
+## Periodic Trend Data (bonding elements)
+
+|                                  | Sodium | Oxygen |       Hydrogen       |
+|----------------------------------|:------:|:------:|:--------------------:|
+|        Atomic radius (pm)        |   180  |   60   |          25          |
+|         Ionic radius (pm)        |   95   |   140  | 6.49 *10<sup>5</sup> |
+|    Electron affinity (kJ/mol)    |  52.87 | 140.98 |         72.55        |
+| First Ionization Energy (kJ/mol) |   496  |  1314  |         1312         |
+|         Electronegativity        |  0.93  |  3.50  |          2.1         |
