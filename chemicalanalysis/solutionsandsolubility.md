@@ -51,23 +51,23 @@ V<sub>1</sub> = 1.13 L<br>
 ## Solution Stoichiometry Calculation
 Given: 3.5 L of 1mol/L H<sub>2</sub>SO<sub>4</sub> solution, 0.5mol/L NaOH solution<br>
 <br>
-H<sub>2</sub>SO<sub>4</sub>(aq) + NaOH(aq) ---> NaCl(aq) + 2H<sub>2</sub>O(l)<br>
+H<sub>2</sub>SO<sub>4</sub>(aq) + 2NaOH(aq) ---> Na<sub>2</sub>SO<sub>4</sub>(aq) + 2H<sub>2</sub>O(l)<br>
 <br>
 Required: Volume of NaOH solution required to neutralize<br>
 <br>
 Formulas:<br>
-n{H<sub>2</sub>SO<sub>4</sub>} = n{NaOH}<br>
+n{NaOH} = n{H<sub>2</sub>SO<sub>4</sub>} * 2<sub>(due to molar ratio)</sub><br>
 n = c * V<br>
 <br>
-From above formulas: c{H<sub>2</sub>SO<sub>4</sub>} + V{H<sub>2</sub>SO<sub>4</sub>} = c{NaOH} * V{NaOH}
+From above formulas: c{NaOH} * V{NaOH} = c{H<sub>2</sub>SO<sub>4</sub>} + V{H<sub>2</sub>SO<sub>4</sub>} * 2
 <br>
 <br>
 Calculations:<br>
-c{H<sub>2</sub>SO<sub>4</sub>} + V{H<sub>2</sub>SO<sub>4</sub>} = c{NaOH} * V{NaOH}<br>
-1mol/L * 3.5L = 0.5mol/L * V{NaOH}<br>
-V{NaOH} * 0.5mol/L = 3.5 mol<br>
-V{NaOH} = 3.5mol / 0.5mol/L<br>
-V{NaOH} = 7L<br>
+c{NaOH} * V{NaOH} = c{H<sub>2</sub>SO<sub>4</sub>} + V{H<sub>2</sub>SO<sub>4</sub>} * 2<br>
+0.5mol/L * V{NaOH} = 1mol/L * 3.5L * 2<br>
+V{NaOH} * 0.5mol/L = 7 mol<br>
+V{NaOH} = 7mol / 0.5mol/L<br>
+V{NaOH} = 14L<br>
 <br>
 <br>
 <br>
