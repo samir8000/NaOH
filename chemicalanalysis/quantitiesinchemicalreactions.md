@@ -8,8 +8,15 @@ NaOH<sub>mass</sub> = 40 g/mol
 <br>
 ## Mass Calculation
 
-``` python
-print("Select a Reaction:")
-print("Reaction 1: NaOH + HCl ---> NaCl + H<sub>2</sub>O")
-reaction = input("Input 1, 2, 3, or 4: ")
-```
+Select a Number:
+<script>
+<select name="Quantity" id="selection"> 
+<option value="Value1">1</option> 
+<option value="Value2">2</option> 
+<option value="Value3">3</option> 
+<option value="Value4">4</option> 
+</select>
+</script>
+Enter Something:
+<input type="string" name="Input1"/></input>
+
