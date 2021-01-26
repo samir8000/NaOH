@@ -123,7 +123,6 @@
 <br>
 <br>
 ## Compound's Properties
-<br>
 ### Physical Properties
 - White solid
 - Odourless
@@ -147,15 +146,12 @@
 <br>
 <br>
 ## Structure
-<br>
-<br>
 <img src="https://qph.fs.quoracdn.net/main-qimg-bbb68adfd373f178be86fbfb93f1e00c.webp" width="300"/>
 <br>
 <br>
 <br>
 <br>
 ## Electronegativity Difference of Bonds
-<br>
 - **Na - O bond:** 2.57 (3.50 - 0.93)
 <br>
 - **O - H bond:** 1.4 (3.5 - 2.1)
