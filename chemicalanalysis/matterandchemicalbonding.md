@@ -26,11 +26,13 @@
 | **Melting point(°C)**           | 97.8                                           | -218.79                            | -259.16                 |
 | **Density (g/cm<sup>3</sup>)**  | 0.97                                           | 1.429 * 10<sup>-3</sup>            | 8.988 * 10<sup>-5</sup> |
 | **Other Notable Properties**    | Ductile<br>Conductive<br>Malleable<br>Lustrous | Tasteless<br>Odourless             | Tasteless<br>Odourless  |
+
 <br>
 <br>
 ## Periodic Trend Data (bonding elements)
 <br>
 <br>
+
 |                                      | **Sodium** | **Oxygen** |       **Hydrogen**       |
 |--------------------------------------|:----------:|:----------:|:------------------------:|
 |        **Atomic radius (pm)**        |   180      |   60       |          25              |
@@ -95,5 +97,5 @@ The sodium and hydroxide ions then react forming sodium hydroxide
 - Na+ + OH- ---> NaOH
 <br>
 Diaphragm cell and membrane cell method: electrolysis of aqueous sodium chloride:
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://qph.fs.quoracdn.net/main-qimg-bbb68adfd373f178be86fbfb93f1e00c.webp" width="300"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/electrolysis.png" width="300"/>
 
