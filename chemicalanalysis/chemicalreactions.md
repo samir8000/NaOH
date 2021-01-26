@@ -29,7 +29,8 @@ A solution of sodium hydroxide (main constituent) and sodium sulfate is used to 
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(“S-org” represent a variety of compounds with sulfur)
 <br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(“Wood” represents many organic compounds such as Lignin, Cellulose, Hemi-cellulose (Glucomannan, Xylan and other hydrocarbon groups), and Resins)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(“Wood” represents many organic compounds such as Lignin, Cellulose, Hemi-cellulose<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Glucomannan, Xylan and other hydrocarbon groups), and Resins)
 <br><br><br>
 Residuals from the kraft process can be recycled into sodium hydroxide (which can be reused for the main process)<br>
 <br>
