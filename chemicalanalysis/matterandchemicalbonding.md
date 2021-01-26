@@ -33,21 +33,18 @@
 <br>
 <br>
 
-|                                      |            |            |                          |
-|                                      | **Sodium** | **Oxygen** |       **Hydrogen**       |
-|                                      |            |            |                          |
-|--------------------------------------|:----------:|:----------:|:------------------------:|
-|**Atomic radius (pm)**                |   180      |   60       |          25              |
-|**Ionic radius (pm)**                 |   95       |   140      | 6.49 * 10<sup>5</sup>    |
-|**Electron affinity (kJ/mol)**        |  52.87     | 140.98     |         72.55            |
-| **First Ionization Energy (kJ/mol)** |   496      |  1314      |         1312             |
-|**Electronegativity**                 |  0.93      |  3.50      |          2.1             |
+|                                  | Sodium | Oxygen |       Hydrogen        |
+|:--------------------------------:|:------:|:------:|:--------------------: |
+|        Atomic radius (pm)        |   180  |   60   |          25           |
+|         Ionic radius (pm)        |   95   |   140  | 6.49 * 10<sup>5</sup> |
+|    Electron affinity (kJ/mol)    |  52.87 | 140.98 |         72.55         |
+| First Ionization Energy (kJ/mol) |   496  |  1314  |         1312          |
+|         Electronegativity        |  0.93  |  3.50  |          2.1          |
 <br>
 <br>
 <br>
 <br>
-## Properties of Compound
-<br>
+## Compound's Properties
 <br>
 ### Physical Properties
 - White solid
