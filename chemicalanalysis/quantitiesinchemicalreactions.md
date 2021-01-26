@@ -84,14 +84,14 @@ m<sub>H per mole NaOH</sub> = 1.01g/mol<br>
 % comp<sub>H</sub> = 2.53 %<br>   
 <br>
 (assuming 100g NaOH):<br>
-Na<sub>comp = 57.48g / 22.99g/mol<br>
-Nacomp = 2.50 mol<br>
+Na<sub>comp</sub> = 57.48g / 22.99g/mol<br>
+Na<sub>comp</sub> = 2.50 mol<br>
 <br>
-Ocomp = 40.00g / 16.00g/mol<br>
-Ocomp = 2.50 mol<br>
+O<sub>comp</sub> = 40.00g / 16.00g/mol<br>
+O<sub>comp</sub> = 2.50 mol<br>
 <br>
-Hcomp = 2.53g / 1.01g/mol<br>
-Hcomp = 2.50 mol<br>
+H<sub>comp</sub> = 2.53g / 1.01g/mol<br>
+H<sub>comp</sub> = 2.50 mol<br>
 <br>
 <br>
 Lowest ratio:<br>
