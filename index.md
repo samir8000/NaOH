@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Sodium Hydroxide
 
-You can use the [editor on GitHub](https://github.com/samir8000/NaOH/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sodium Hydroxide, otherwise referred to as caustic soda or lye, is an ionic compound composed of the sodium cation (Na+), and the hydroxide anion (OH-- ). It is highly soluble in water and is highly alkaline, making 
 
 ### Markdown
 
