@@ -48,7 +48,14 @@ V<sub>1</sub> = 1.13 L<br>
 <br>
 <br>
 <br>
+## Solubility 
+As temperature increases, the amount of NaOH that can be dissolved increases. This is due to the increase in energy of the molecules, facilitating the breaking of the solute's bonds. 
+NaOH Solubility in water:
 <img src="http://hydro-land.com/e/ligne-en/doc/p/Solubilite-NaOH.jpg">
+
+### Polar vs Non-Polar Solvent
+Sodium hydroxide is more soluble in polar solvents than non-polar solvents:<br>
+For ionic compounds (such as sodium hydroxide) to be dissolved in a non-polar solvent, ionic bonds as well as the attractions between the non-polar molecules would need to be broken, forming ion - nonpolar attraction. The formed attraction would be significantly weaker than the attractions that needed to be broken, making it an endothermic process, requiring energy to facilitate it. However, with a solvent such as water (polar molecule), the attraction between water and the ions that are formed can be sufficiently strong to make the process only slightly endothermic or even exothermic.
 
 
 
