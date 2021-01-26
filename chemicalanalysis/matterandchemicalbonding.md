@@ -40,6 +40,50 @@ sgkjdfgjdlfkgjdfjg
 | Electronegativity                | 0.93   | 3.50   | 2.1        |
 <br>
 <br>
+
+<table>
+<thead>
+  <tr>
+    <th>|</th>
+    <th>Sodium</th>
+    <th>Oxygen</th>
+    <th>Hydrogen</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Atomic radius (pm)</td>
+    <td>180</td>
+    <td>60</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Ionic radius (pm)</td>
+    <td>95</td>
+    <td>140</td>
+    <td>6.49 * 105</td>
+  </tr>
+  <tr>
+    <td>Electron affinity (kJ/mol)</td>
+    <td>52.87</td>
+    <td>140.98</td>
+    <td>72.55</td>
+  </tr>
+  <tr>
+    <td>First Ionization Energy (kJ/mol)</td>
+    <td>496</td>
+    <td>1314</td>
+    <td>1312</td>
+  </tr>
+  <tr>
+    <td>Electronegativity</td>
+    <td>0.93</td>
+    <td>3.50</td>
+    <td>2.1</td>
+  </tr>
+</tbody>
+</table>
+
 ## Periodic Trend Data (bonding elements)
 <br>
 <br>
