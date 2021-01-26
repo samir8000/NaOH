@@ -30,8 +30,7 @@
 <br>
 <br>
 ## Periodic Trend Data (bonding elements)
-<br>
-<br>
+
 
 |                                  | Sodium | Oxygen | Hydrogen   |
 |----------------------------------|--------|--------|------------|
