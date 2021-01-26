@@ -37,11 +37,11 @@ Total<sub>mass</sub> = 76.46g/mol
 
 X<sub>mass</sub> = Xmass / Totalmass * 100%
 
-Na<sub>mass</sub> = 22.99g/mol / 76.46g/mol * 100% 		O<sub>mass</sub> = 16 g/mol / 76.46g/mol * 100%
-Na<sub>mass</sub>= 30.07 %					O<sub>mass</sub> = 20.93 % 
+Na<sub>mass</sub> = 22.99g/mol / 76.46g/mol * 100%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O<sub>mass</sub> = 16 g/mol / 76.46g/mol * 100%
+Na<sub>mass</sub>= 30.07 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O<sub>mass</sub> = 20.93 % 
 
-H<sub>mass</sub> = 2(1.01g/mol) / 76.46g/mol * 100%		Cl<sub>mass</sub> = 35.45 / 76.46g/mol * 100%
-H<sub>mass</sub> = 2.64 %						Cl<sub>mass</sub> = 46.36%
+H<sub>mass</sub> = 2(1.01g/mol) / 76.46g/mol * 100%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cl<sub>mass</sub> = 35.45 / 76.46g/mol * 100%
+H<sub>mass</sub> = 2.64 %&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cl<sub>mass</sub> = 46.36%
 		
 NaOH<sub>mass</sub> = Na<sub>mass</sub>% + O<sub>mass</sub>% + ½(H<sub>mass</sub>%)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HCl<sub>mass</sub> = ½ (H<sub>mass</sub>%) + Cl<sub>mass</sub>%
 
