@@ -42,9 +42,9 @@ dioxide:<br>
 	
 These products are dissolved in water and calcium oxide is added, which reacts with the water 
 forming calcium hydroxide:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaO + H2O ---> Ca(OH)2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaO + H2O ---> Ca(OH)<sub>2</sub>
 
 	Calcium hydroxide reacts with the sodium carbonate forming calcium carbonate and sodium 
 hydroxide:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na<sub>2</sub>CO<sub>3<sub> + Ca(OH)<sub>2</sub> ---> CaCO<sub>3</sub> + 2NaOH (Double Displacement)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na<sub>2</sub>CO<sub>3</sub> + Ca(OH)<sub>2</sub> ---> CaCO<sub>3</sub> + 2NaOH (Double Displacement)
 
