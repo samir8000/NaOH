@@ -81,7 +81,7 @@ m<sub>H per mole NaOH</sub> = 1.01g/mol<br>
 ### Empirical formula
 % comp<sub>Na</sub> = 57.48 %
 % comp<sub>O</sub> = 40.00 %   
-% comp<sub>H</sub> = 2.53 % 
+% comp<sub>H</sub> = 2.53 %<br> 
 <br>
 (assuming 100g NaOH):<br>
 Na<sub>comp</sub> = 57.48g / 22.99g/mol<br>
@@ -98,4 +98,48 @@ Lowest ratio:<br>
 2.50molNa : 2.50molO : 2.50molH == 1Na : 1O : 1H<br>
 <br>
 <strong>Empirical formula: NaOH</strong>
+<br>
+<br>
+<br>
+<br>
+## Mass of Product/Reactant Calculation
+Reaction: Na<sub>2</sub>CO<sub>3</sub> + Ca(OH)<sub>2</sub> ---> CaCO<sub>3</sub> + 2NaOH<br>
+<br>
+Solving for mass of NaOH given 50g Na<sub>2</sub>CO<sub>3</sub> 
+<br>
+Formulas: 
+n{x} = n{Na<sub>2</sub>CO<sub>3</sub>} * (ratio of n{x} /n{y})
+m = n * M<br>
+<br>
+<br>
+### Molar Mass
+M{Na<sub>2</sub>CO<sub>3</sub>} = 2M{Na} + M{C} + 3M{O}
+M{Na<sub>2</sub>CO<sub>3</sub>} = 45.98g/mol + 12.01g/mol + 48g/mol
+M{Na<sub>2</sub>CO<sub>3</sub>} = 105.99g/mol<br>
+<br>
+n{Na<sub>2</sub>CO<sub>3</sub>} = m{Na<sub>2</sub>CO<sub>3</sub>} / M{Na<sub>2</sub>CO<sub>3</sub>}
+n{Na<sub>2</sub>CO<sub>3</sub>} = 50g / 105.99g/mol
+n{Na<sub>2</sub>CO<sub>3</sub>} = 0.47 mol 
+<br>
+<br>
+M{NaOH} = M{Na} + M{O} + M{H}
+M{NaOH} = 22.99g/mol + 16.00g/mol + 1.01g/mol 
+M{NaOH} = 40g/mol<br>
+<br>
+n{NaOH} = (n{Na<sub>2</sub>CO<sub>3</sub>} * (ratio of n{NaOH} /n{Na<sub>2</sub>CO<sub>3</sub>})
+n{NaOH} = (0.47mol * 2)
+n{NaOH} = 0.94mol<br>
+<br>
+<br>
+m{NaOH} = n{NaOH} * M{NaOH}
+m{NaOH} = 0.94mol * 40.00g/mol
+m{NaOH} = 37.6g
+
+
+
+
+
+
+
+
 
