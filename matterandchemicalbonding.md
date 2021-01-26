@@ -77,7 +77,23 @@
 <br>
 ## Electronegativity Difference of Bonds
 <br>
-- Na - O bond: 2.57 (3.50 - 0.93)
+- **Na - O bond:** 2.57 (3.50 - 0.93)
 <br>
-- O - H bond: 1.4 (3.5 - 2.1)
+- **O - H bond:** 1.4 (3.5 - 2.1)
 <br>
+<br>
+<br>
+<br>
+
+### Neutralization reaction | hydrochloric acid + sodium hydroxide (base) ---> sodium chloride + water:
+- HCl(aq) + NaOH(aq) ---> NaCl(aq) + H2O(l)
+<br><br>
+### Chloralkali process (three methods):
+Mercury cell method: A sodium-mercury amalgam reacts with water forming Na+, OH-, H2, and Hg:
+- 2 Na (in Hg) + 2H2O ---> 2 Na+ + 2 OH- + H2 + Hg
+The sodium and hydroxide ions then react forming sodium hydroxide
+- Na+ + OH- ---> NaOH
+<br>
+Diaphragm cell and membrane cell method: electrolysis of aqueous sodium chloride:
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://qph.fs.quoracdn.net/main-qimg-bbb68adfd373f178be86fbfb93f1e00c.webp" width="300"/>
+
