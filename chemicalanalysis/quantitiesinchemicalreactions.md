@@ -50,14 +50,15 @@ Cl<sub>mass</sub> = 35.45 / 76.46g/mol * 100%
 Cl<sub>mass</sub> = 46.36%
 <br>
 <br>		
-NaOH<sub>mass</sub> = Na<sub>mass</sub>% + O<sub>mass</sub>% + ½(H<sub>mass</sub>%)
-NaOH<sub>mass</sub> = 30.07% + 20.93% + ½(2.64%)
-NaOH<sub>mass</sub> = 52.32%
+NaOH<sub>mass</sub> = Na<sub>mass</sub>% + O<sub>mass</sub>% + ½(H<sub>mass</sub>%)<br>
+NaOH<sub>mass</sub> = 30.07% + 20.93% + ½(2.64%)<br>
+NaOH<sub>mass</sub> = 52.32%<br>
 <br>
-HCl<sub>mass</sub> = ½ (H<sub>mass</sub>%) + Cl<sub>mass</sub>%
-HCl<sub>mass</sub> = ½ (2.64%) + 46.36%
+HCl<sub>mass</sub> = ½ (H<sub>mass</sub>%) + Cl<sub>mass</sub>%<br>
+HCl<sub>mass</sub> = ½ (2.64%) + 46.36%<br>
 HCl<sub>mass</sub> = 47.68%
-
+<br>
+<br>
 ## Empirical Formula Calculation
 ### Percent Composition
 M<sub>NaOH</sub> = 40.00 g/mol
