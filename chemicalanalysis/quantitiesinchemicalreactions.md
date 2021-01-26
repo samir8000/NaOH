@@ -7,12 +7,10 @@ NaOH<sub>mass</sub> = 22.99g/mol + 16g/mol + 1.01 g/mol
 NaOH<sub>mass</sub> = 40 g/mol
 <br>
 ## Mass Calculation
-<script>
-Select a Number:
-<select name="Reaction" id="selection"> 
-<option value="Reaction1">NaOH + HCl ---> NaCl + H<sub>2</sub>O</option> 
-<option value="Reaction2">2</option> 
-<option value="Reaction3">3</option> 
-<option value="Reaction4">4</option> 
-</select>
-</script>
+
+```python
+print("Select a Reaction:")
+print("Reaction 1: NaOH + HCl ---> NaCl + H<sub>2</sub>O")
+
+reaction = input("Input 1, 2, 3, or 4: ")
+```
