@@ -41,7 +41,7 @@ dioxide:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 Na<sub>2</sub>S + 3 O<sub>2</sub> + 2 CO<sub>2</sub> ---> 2 Na<sub>2</sub>CO<sub>3</sub> + 2 SO<sub>2</sub><br>
 	
 These products are dissolved in water and calcium oxide is added, which reacts with the water 
-forming calcium hydroxide:
+forming calcium hydroxide:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaO + H2O ---> Ca(OH)<sub>2</sub><br>
 
 Calcium hydroxide reacts with the sodium carbonate forming calcium carbonate and sodium 
