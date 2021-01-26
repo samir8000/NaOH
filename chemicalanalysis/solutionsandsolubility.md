@@ -49,8 +49,8 @@ V<sub>1</sub> = 1.13 L<br>
 <br>
 <br>
 ## Solubility 
-As temperature increases, the amount of NaOH that can be dissolved increases. This is due to the increase in energy of the molecules, facilitating the breaking of the solute's bonds. 
-NaOH Solubility in water:
+As temperature increases, the amount of NaOH that can be dissolved increases. This is due to the increase in energy of the molecules, facilitating the breaking of the solute's bonds. <br>
+NaOH Solubility in water:<br>
 <img src="http://hydro-land.com/e/ligne-en/doc/p/Solubilite-NaOH.jpg">
 
 ### Polar vs Non-Polar Solvent
