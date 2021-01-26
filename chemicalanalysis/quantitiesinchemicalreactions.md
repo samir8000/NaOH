@@ -134,12 +134,13 @@ n{NaOH} = 0.94mol<br>
 m{NaOH} = n{NaOH} * M{NaOH}<br>
 m{NaOH} = 0.94mol * 40.00g/mol<br>
 m{NaOH} = 37.6g<br>
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+### Percentage Yield Calculation
+(using above reaction, if 35.5g of NaOH is produced in experiment)<br>
+<br>
+%Yield = Yield / Theoretical Yield * 100%<br>
+%Yield = 35.5g NaOH / 37.6g NaOH * 100<br>
+%Yield = 94.41%
