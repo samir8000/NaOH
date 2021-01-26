@@ -57,3 +57,44 @@ NaOH<sub>mass</sub> = 52.32%
 HCl<sub>mass</sub> = ½ (H<sub>mass</sub>%) + Cl<sub>mass</sub>%
 HCl<sub>mass</sub> = ½ (2.64%) + 46.36%
 HCl<sub>mass</sub> = 47.68%
+
+## Empirical Formula Calculation
+### Percent Composition
+M<sub>NaOH</sub> = 40.00 g/mol
+
+m<sub>Na per mole NaOH</sub> = 22.99 g/mol
+% comp<sub>Na</sub> = M<sub>Na</sub> / M<sub>NaOH</sub> * 100%
+% comp<sub>Na</sub> = 22.99 g/mol / 40.00 g/mol * 100%
+% comp<sub>Na</sub> = 57.48 %   
+
+m<sub>O per mole NaOH</sub>  = 16 g/mol
+% comp<sub>O</sub> = M<sub>O</sub> / M<sub>NaOH</sub> * 100%
+% comp<sub>O</sub> = 16.00 g/mol / 40.00 g/mol * 100%
+% comp<sub>O</sub> = 40.00 %   
+
+m<sub>H per mole NaOH</sub> = 1.01g/mol
+% comp<sub>H</sub> = M<sub>H</sub> / M<sub>NaOH</sub> * 100%
+% comp<sub>H</sub> = 1.01 g/mol / 40.00 g/mol * 100%
+% comp<sub>H</sub> = 2.53 %   
+
+### Empirical formula
+% comp<sub>Na</sub> = 57.48 %   
+% comp<sub>O</sub> = 40.00 %   
+% comp<sub>H</sub> = 2.53 %   
+
+(assuming 100g NaOH):
+Na<sub>comp = 57.48g / 22.99g/mol
+Nacomp = 2.50 mol
+
+Ocomp = 40.00g / 16.00g/mol
+Ocomp = 2.50 mol
+
+Hcomp = 2.53g / 1.01g/mol
+Hcomp = 2.50 mol
+
+<br>
+Lowest ratio:
+2.50molNa : 2.50molO : 2.50molH == 1Na : 1O : 1H
+
+<strong>Empirical formula: NaOH</strong>
+
