@@ -79,9 +79,9 @@ m<sub>H per mole NaOH</sub> = 1.01g/mol<br>
 % comp<sub>H</sub> = 2.53 %<br>
 <br>
 ### Empirical formula
-% comp<sub>Na</sub> = 57.48 %<br>
-% comp<sub>O</sub> = 40.00 %<br>   
-% comp<sub>H</sub> = 2.53 %<br>   
+% comp<sub>Na</sub> = 57.48 %
+% comp<sub>O</sub> = 40.00 %   
+% comp<sub>H</sub> = 2.53 % 
 <br>
 (assuming 100g NaOH):<br>
 Na<sub>comp</sub> = 57.48g / 22.99g/mol<br>
