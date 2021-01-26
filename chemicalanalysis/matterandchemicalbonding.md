@@ -19,9 +19,9 @@
 <thead>
   <tr>
     <th> </th>
-    <th>Sodium</th>
-    <th>Oxygen</th>
-    <th>Hydrogen</th>
+    <th><strong>Sodium</strong></th>
+    <th><strong>Oxygen</strong></th>
+    <th><strong>Hydrogen</strong></th>
   </tr>
 </thead>
 <tbody>
@@ -78,10 +78,10 @@
 <table>
 <thead>
   <tr>
-    <th>|</th>
-    <th>Sodium</th>
-    <th>Oxygen</th>
-    <th>Hydrogen</th>
+    <th></th>
+    <th><strong>Sodium</strong></th>
+    <th><strong>Oxygen</strong></th>
+    <th><strong>Hydrogen</strong></th>
   </tr>
 </thead>
 <tbody>
