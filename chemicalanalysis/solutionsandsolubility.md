@@ -44,7 +44,11 @@ Calculations:<br>
 (1.5mol/L)(V<sub>1</sub>) = 1.7 mol<br>
 V<sub>1</sub> = 1.7mol / 1.5mol/L<br>
 V<sub>1</sub> = 1.13 L<br>
-
+<br>
+<br>
+<br>
+<br>
+<img src="http://hydro-land.com/e/ligne-en/doc/p/Solubilite-NaOH.jpg">
 
 
 
