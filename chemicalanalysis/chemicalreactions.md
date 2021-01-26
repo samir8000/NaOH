@@ -3,7 +3,12 @@
 ## Neutralization reaction
 
 hydrochloric acid + sodium hydroxide (base) ---> sodium chloride + water:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HCl(aq) + NaOH(aq) ---> NaCl(aq) + H<sub>2</sub>O(l)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HCl(aq) + NaOH(aq) ---> NaCl(aq) + H<sub>2</sub>O(l)<br>
+<br>
+<br>
+sulfuric acid + sodium hydroxide (base) ---> sodium sulfate + water:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H<sub>2</sub>SO<sub>4</sub>(aq) + NaOH(aq) ---> NaCl(aq) + 2H<sub>2</sub>O(l)<br><br>
+
 <br><br>
 ## Chloralkali process (three methods):<br>
 [Read more]()
