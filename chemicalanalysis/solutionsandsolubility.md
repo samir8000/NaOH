@@ -49,7 +49,7 @@ V<sub>1</sub> = 1.13 L<br>
 <br>
 <br>
 ## Solution Stoichiometry Calculation
-Given: 3.5 L of 1mol/L H<sub>2</sub>SO<sub>4</sub> solution<br>, 0.5mol/L NaOH solution
+Given: 3.5 L of 1mol/L H<sub>2</sub>SO<sub>4</sub> solution, 0.5mol/L NaOH solution<br>
 H<sub>2</sub>SO<sub>4</sub>(aq) + NaOH(aq) ---> NaCl(aq) + 2H<sub>2</sub>O(l)<br>
 <br>
 Required: Volume of NaOH solution required to neutralize<br>
