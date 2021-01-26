@@ -26,6 +26,7 @@
 | **Melting point(°C)**           | 97.8                                           | -218.79                            | -259.16                 |
 | **Density (g/cm<sup>3</sup>)**  | 0.97                                           | 1.429 * 10<sup>-3</sup>            | 8.988 * 10<sup>-5</sup> |
 | **Other Notable Properties**    | Ductile<br>Conductive<br>Malleable<br>Lustrous | Tasteless<br>Odourless             | Tasteless<br>Odourless  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## hi
 <br>
