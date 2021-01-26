@@ -97,5 +97,5 @@ The sodium and hydroxide ions then react forming sodium hydroxide
 - Na+ + OH- ---> NaOH
 <br>
 Diaphragm cell and membrane cell method: electrolysis of aqueous sodium chloride:
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/electrolysis.png" width="700"/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="/NaOH/images/electrolysis.png" width="700"/>
 
