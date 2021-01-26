@@ -5,13 +5,13 @@ Sodium Hydroxide, otherwise referred to as caustic soda or lye, is an ionic comp
 
 ## Chemical Analysis
 
-[Matter and Chemical Bonding](https://samir8000.github.io/NaOH/matterandchemicalbonding)
+[Matter and Chemical Bonding](https://samir8000.github.io/NaOH/chemicalanalysis/matterandchemicalbonding)
 
-[Chemical Reactions](https://samir8000.github.io/NaOH/chemicalreactions)
+[Chemical Reactions](https://samir8000.github.io/NaOH/chemicalanalysis/chemicalreactions)
 
-[Quantities in Chemical Reactions](quantitiesinchemicalreactions)
+[Quantities in Chemical Reactions](https://samir8000.github.io/NaOH/chemicalanalysis/quantitiesinchemicalreactions)
 
-[Solutions and Solubility](https://samir8000.github.io/NaOH/solutionsandsolubility)
+[Solutions and Solubility](https://samir8000.github.io/NaOH/chemicalanalysis/solutionsandsolubility)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
