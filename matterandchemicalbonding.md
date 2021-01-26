@@ -7,9 +7,7 @@
 
 ## Physical Properties of Bonding Elements
 
-|                             |                                       |                                    |                       |
 |                             | Sodium                                | Oxygen                             | Hydrogen              |
-|                             |                                       |                                    |                       |
 |-----------------------------|---------------------------------------|------------------------------------|-----------------------|
 | Molecular mass (g/mol)      | 22.99                                 | 16.00                              | 1.01                  |
 | State at room temp          | Solid                                 | Gas                                | Gas                   |
