@@ -51,9 +51,7 @@ Cl<sub>mass</sub> = 46.36%
 <br>
 <br>		
 NaOH<sub>mass</sub> = Na<sub>mass</sub>% + O<sub>mass</sub>% + ½(H<sub>mass</sub>%)
-
 NaOH<sub>mass</sub> = 30.07% + 20.93% + ½(2.64%)
-
 NaOH<sub>mass</sub> = 52.32%
 <br>
 HCl<sub>mass</sub> = ½ (H<sub>mass</sub>%) + Cl<sub>mass</sub>%
