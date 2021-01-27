@@ -220,7 +220,8 @@ Case Study: Industrial Electrolysis. (2020, August 15). Chemistry LibreTexts. Re
 <br>
 Garcia-Herrero, I., Margallo, M., Onandía, R., Aldaco, R., &amp; Irabien, A. (2017). Environmental 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;challenges of the chlor-alkali production: Seeking answers from a life cycle approach. 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science of The Total Environment, 580, 147–157. https://doi.org/10.1016/j.scitotenv.2016.10.202 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Science of The Total Environment, 580, 147–157. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.scitotenv.2016.10.202 
 
 
 
