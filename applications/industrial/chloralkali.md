@@ -89,7 +89,7 @@ A study by Garcia-Herrero et al. (2017) assessed the environmental impact of dif
 <br>
 <br>
 <img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentalstudyscenarios.png"><br>
-(diagram indicating the scope of the study)
+(Table indicating the scenarios being studied)
 - Scenario 1: Mercury cell
 - Scenario 2: Membrane cell
 - Scenario 3: Diaphragm cell
