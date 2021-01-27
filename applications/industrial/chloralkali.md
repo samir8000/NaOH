@@ -82,5 +82,145 @@ Cathode side:<br>
 <br>
 <br>
 ## Environmental Impact Comparison
+A study by Garcia-Herrero et al. (2017) assessed the environmental impact of different chloralkali processes, taking into account the entire production process, including the acquisition and transport of the raw materials, the chloralkali process, and waste management.
+<br>
+<img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentalstudyscope.png"><br>
+(diagram indicating the scope of the study)
+<br>
+<br>
+<img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentalstudyscenarios.png"><br>
+(diagram indicating the scope of the study)
+- Scenario 1: Mercury cell
+- Scenario 2: Membrane cell
+- Scenario 3: Diaphragm cell
+- Scenario 4: ODC, a newly emerging method of chloralkali production (will not be detailed here).
+<br>
+<br>
+Functional Unit:
+The ratio of products in the chloralkali process is 1 ton of chlorine, 1,13 ton of sodium hydroxide, and 0.03 ton of hydrogen. This combination is called the electrochemical unit, the functional unit of this study.
+<br>
+<br>
+### Variables of Environmental Impact Assessment
+<br>
+The metrics used are those developed by the Institution of Chemical Engineers:
+<br>
+#### NR: Natural resources consumption:
+The measurement of NR consists of the consumption of energy (X<sub>1,1</sub>), materials (X<sub>1,2</sub>), and water (X<sub>1,3</sub>).
+<br>
+<br>
+#### EB: Environmental burden:
+The primary environmental burdens are associated with the air (X2,1), water (X2,2), and land (X2,3).
+<br>
+Impact categories:
+Air:
+- Atmospheric acidification (AA)
+- Global warming (GW)
+- Human health (carcinogenic) effects (HHE)
+- Stratospheric ozone depletion (SOD)
+- Photochemical ozone (smog) formation (POF)
+<br>
+Water:
+- Aquatic acidification (AqA)
+- Aquatic oxygen demand (AOD)
+- Ecotoxicity to aquatic life (metals to seawater) (MEco)
+- Ecotoxicity to aquatic life (other substances) (NMEco)
+- Eutrophication (EU)
+<br>
+Land:
+- Amount of generated hazardous waste (HW)
+- Amount of generated non-hazardous waste (HNW)
+<br>
+<br>
+<br>
+### Measurement Methodology
+
+#### Natural resource consumption:
+In order to compare the variance between the chloralkali process methods, the consumption of resources is expressed in relation to a reference point (X<sup>ref</sup><sub>1,i</sub>), the average weighted consumption of European plants in 2014 (23% mercury cell, 62% membrane cell, 15% diaphragm cell).
+<br>
+i = the different NR indicators (energy, materials, water)
+<br>
+X*<sub>1,i</sub> = measurement of the ratio between the chloralkali process method and the reference point:
+<br>
+
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation1.png"
+The variables are then weighted by their relative importance to provide a score for the process in its entirety.
+<br>
+α<sub>1,i</sub> = weighting factor for different NR indicators
+X<sub>1</sub> = total weighted score of the chloralkali method in relation to resource consumption.
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation2.png"
+<br>
+<br>
+#### Environmental Burden:
+EB is measured differently depending on the impact category considered. The values in the European Pollutant Release and Transfer Register regulation are the reference points.
+<br>
+j = environmental compartment (air, water, land)
+k = impact category
+X*<sub>2,j,k</sub> = measurement of the EB in comparison with the reference point X<sup>ref</sup><sub>2,j,k</sub>.
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation3.png"
+<br>
+The variables are weighted in accordance with a weighting factor determined by the importance of each impact category
+<br>
+β<sub>2,j,k</sub> = weighting factor for the impact categories
+<br>
+X<sub>2,j</sub> = total weighted environmental burden of a domain (air, water, or land)
+<br>
+<br>
+<br>
+<br>
+### Results
+<img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentresults.png">
+As shown in the above table, the natural resource consumption of scenario 2, the membrane cell, consumes less natural resources than its counterparts in all three metrics (energy, materials, and water). The diaphragm cell (scenario 3) ranks second in terms of resource consumption, with the mercury cell, scenario 1, consuming the most energy, materials, and water.
+<br>
+The following diagram will display the ratio of resource consumption as it relates to different stages in the production process:
+<img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentresults1.png">
+<br>
+#### Energy consumption (electricity, steam, diesel and natural gas):
+- Electrolytic process: 80 - 99%
+- Order from least intensive consumption to most: membrane cell, diaphragm cell, mercury cell
+- Due to the lower quality sodium hydroxide solution produced by the diaphragm cell method, there is a higher consumption associated with its treatment process for the purification.
+- The other stages of production are negligible 
+<br>
+#### Material consumption:
+- The electrolytic process makes up the largest consumption percentage of the production, but not to the extent of that in energy and water consumption.
+- Solution mining: around 20% (5% for diaphragm due to salt being reused in brine preparation)
+- The other stages of production are negligible 
+<br>
+#### Water consumption:
+- Electrolytic process: 95 - 98%
+- The other stages of production are negligible 
+<br>
+<br>
+<br>
+Table denoting the environmental burden scores:
+<img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentresults2.png">
+<br>
+Air:
+- Most significant impact categories: Photochemical ozone (smog) formation (POF) and Human health (carcinogenic) effects.
+<br>
+Water:
+- Most significant impact category: Eutrophication (EU)
+- Other significant categories: Ecotoxicity to aquatic life (metals to seawater) (MEco and NMeCO)
+<br>
+Land:
+- Both land impact categories are not highly significant to the total environmental burden.
+<br>
+<br>
+The above table shows that the mercury cell method poses the greatest environmental burden, followed by the diaphragm cell, with the membrane cell being the least burdensome.
+<br>
+<br>
+## Conclusion
+The mercury cell method for chloralkali production is the least environmentally sustainable, from both a natural resource consumption perspective, as well as in environmental burden (which explains why since 1984, no new mercury cell technology based plants have been built). The diaphragm cell method is the second most sustainable, and the membrane cell method is the most sustainable method (explaining why all new chloralkali plants are based on the membrane cell method).
+<br>
+<br>
+<br>
+<br>
+## References
+Case Study: Industrial Electrolysis. (2020, August 15). Chemistry LibreTexts. Retrieved from 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://chem.libretexts.org/@go/page/254 
+<br>
+Garcia-Herrero, I., Margallo, M., Onandía, R., Aldaco, R., &amp; Irabien, A. (2017). Environmental 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;challenges of the chlor-alkali production: Seeking answers from a life cycle approach. Science of The Total Environment, 580, 147–157. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://doi.org/10.1016/j.scitotenv.2016.10.202 
+
+
 
 
