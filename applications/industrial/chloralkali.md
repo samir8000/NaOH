@@ -33,9 +33,10 @@ Anode compartment:<br>
 - Cl- is oxidized to produce Cl2 in the anode compartment
 - Chlorine gas is released
 <br>
+<br>
 Cathode compartment;<br>
 - Water is reduced to produce OH-(aq) and H<sub>2</sub>(g) 
-- There is unequal solution levels between the two compartments, with the anode compartment solution being at a higher level. This results in a gradual flow of aqueous sodium chloride into the cathode side (the sodium then reacts with hydroxide to form sodium hydroxide). The unequal levels also prevent backflow of sodium hydroxide into the anode. If sodium hydroxide were to get into the anode side, chlorine gas and sodium hydroxide would react, making the chlorine gas (Cl<sub>2<sub>) form hypochlorite (ClO-), chlorate (ClO<sub>3</sub>-), chlorine (Cl-) ions (which is undesirable in this process).
+- There is unequal solution levels between the two compartments, with the anode compartment solution being at a higher level. This results in a gradual flow of aqueous sodium chloride into the cathode side (the sodium then reacts with hydroxide to form sodium hydroxide). The unequal levels also prevent backflow of sodium hydroxide into the anode. If sodium hydroxide were to get into the anode side, chlorine gas and sodium hydroxide would react, making the chlorine gas (Cl<sub>2</sub>) form hypochlorite (ClO-), chlorate (ClO<sub>3</sub>-), chlorine (Cl-) ions (which is undesirable in this process).
 - The cathode compartment solution also has aqueous sodium chloride mixed in from the flow of the anode to cathode compartment. For more pure sodium hydroxide, the salt can be purified out of the solution. 
 - Product solution before purification: 14-16% NaCl(aq) and 10-12% NaOH(aq). The solution can be concentrated which results in sodium chloride crystallization forming a solution 50% NaOH(aq) and 1% NaCl(aq).
 - Hydrogen gas is released
@@ -47,6 +48,7 @@ Anode side:<br>
 - Anodes are in aqueous sodium chloride above liquid mercury.
   - Reduction of chlorine ions (Cl-) produce chlorine gas (Cl<sub>2</sub>).
 - Chlorine gas is released
+<br>
 <br>
 Cathode side:<br>
 - The cathode is a liquid layer of mercury
@@ -64,6 +66,7 @@ Anode side:<br>
 - Current is passed through the cell, splitting the sodium chloride into Na+ and Cl-.
 - The chlorine ions are oxidized, forming chlorine gas (which is released)
 - The membrane allows for the sodium ions to pass into the cathode compartment
+<br>
 <br>
 The anode and cathode compartments are separated by an ion-permeable membrane.<br>
 <br>
