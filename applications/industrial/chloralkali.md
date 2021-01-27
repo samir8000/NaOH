@@ -11,7 +11,7 @@ Two possible reductions:<br>
 sodium ions than of water, it is less likely to occur, so we can presume that Reaction 2 will occur)<br>
 <br>
 Two possible oxidations:<br>
-<img src="https://samir8000.github.io/NaOH/images/electrolysis2.png" style="borderradius: 10%"><br>
+<img src="https://samir8000.github.io/NaOH/images/electrolysis2.png" style="border-radius: 10%"><br>
 <br>
 Reaction 2 (reduction) + reaction 3 (oxidation):<br>
 <img src="https://samir8000.github.io/NaOH/images/electrolysis3.png"><br>
