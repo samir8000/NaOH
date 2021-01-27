@@ -63,13 +63,14 @@ The resultant mixture thereafter undergoes a process (called direct-contact evap
 <img src = "https://samir8000.github.io/NaOH/images/kraftprocess3.png">
 
 <br>
-The concentrated (strong) black liquor is fired in a recovery furnace, which produces heat, facilitating a reaction of sodium sulfate (with carbon) into sodium sulfide and carbon dioxide. <br>
-(Na<sub>2</sub>SO<sub>4</sub>(aq) + 2C(s) ---> Na<sub>2</sub>S(aq) + 2CO<sub>2</sub>(g), whose products react together (with oxygen) to form sodium carbonate and sulfur dioxide (2Na<sub>2</sub>S(aq) + 3O<sub>2</sub>(g) + 2CO<sub>2</sub>(g) ---> 2Na<sub>2</sub>CO<sub>3</sub>(aq) + 2SO<sub>2</sub>(aq)).<br>
+The concentrated (strong) black liquor is fired in a recovery furnace, which produces heat, facilitating a reaction of sodium sulfate (with carbon) into sodium sulfide and carbon dioxide <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na<sub>2</sub>SO<sub>4</sub>(aq) + 2C(s) ---> Na<sub>2</sub>S(aq) + 2CO<sub>2</sub>(g)<br> 
+whose products react together (with oxygen) to form sodium carbonate and sulfur dioxide (2Na<sub>2</sub>S(aq) + 3O<sub>2</sub>(g) + 2CO<sub>2</sub>(g) ---> 2Na<sub>2</sub>CO<sub>3</sub>(aq) + 2SO<sub>2</sub>(aq)).<br>
 <br>
 The end product of this is a molten smelt consisting of sodium carbonate (main constituent), sodium sulfide, and other compounds. This smelt is dissolved in water, creating a solution called “green liquor.” The green liquor is then placed in a causticizing tank, calcium oxide is added. The calcium oxide reacts with the water, producing calcium hydroxide (CaO + H<sub>2</sub>O ---> Ca(OH)<sub>2</sub>) which then reacts with the sodium carbonate, producing sodium hydroxide (to be reused in the wood digestion process).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na<sub>2</sub>CO<sub>3</sub>(aq) + Ca(OH)<sub>2</sub>(s) ---> CaCO<sub>3</sub>(s) + 2NaOH(aq)<br>
 <br>
-The calcium carbonate that is produced precipitates, and is then decomposed in a lime kiln at high temperatures to produce calcium oxide (to be reused in the causticizing tank).
+The calcium carbonate that is produced precipitates, and is then decomposed in a lime kiln at high temperatures to produce calcium oxide (to be reused in the causticizing tank)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaCO<sub>3</sub>(s) + heat ---> CaO(s) + CO<sub>2</sub>(g)<br>
 <br>
 <br>
