@@ -19,7 +19,7 @@ Reaction 2 (reduction) + reaction 3 (oxidation):<br>
 Reaction 2 (reduction) + reaction 4 (oxidation):<br>
 <img src="https://samir8000.github.io/NaOH/images/electrolysis4.png"><br>
 <br>
-Since reaction 6 has a less negative electrode potential, it would seemingly be more likely to occur, although due to overpotential of O<sub>2</sub>, reaction 5 is the more probable outcome. <br>
+Since reaction 6 has a less negative electrode potential, it would seemingly be more likely to occur, although due to overpotential related to O<sub>2</sub>, reaction 5 is the more probable outcome. <br>
 <br>
 <strong>Reaction:</strong><br>
 <img src="https://samir8000.github.io/NaOH/images/electrolysis5.png"><br>
