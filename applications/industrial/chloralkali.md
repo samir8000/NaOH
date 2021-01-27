@@ -58,9 +58,23 @@ Cathode side:<br>
 <br>
 ### Membrane Cell Process (preferred method)
 The membrane cell process is preferred over the two other aforementioned methods due to it necessitating less electric energy and produces the most pure NaOH solution of the three methods. Cl- contamination is only 50 ppm.<br>
- 
-  
-
-
+<img src="https://samir8000.github.io/NaOH/images/membranecell.png"><br>
+Anode side:<br>
+- Brine, highly concentrated aqueous NaCl, is pumped into the anode compartment
+- Current is passed through the cell, splitting the sodium chloride into Na+ and Cl-.
+- The chlorine ions are oxidized, forming chlorine gas (which is released)
+- The membrane allows for the sodium ions to pass into the cathode compartment
+<br>
+The anode and cathode compartments are separated by an ion-permeable membrane.<br>
+<br>
+Cathode side:<br>
+- Water is reduced, forming hydroxide and hydrogen gas (2H<sub>2</sub>O ---> H<sub>2</sub> + 2OH-
+- The sodium ions that pass through the membrane from the anode compartment reacts with the hydroxide ions, forming aqueous sodium hydroxide.
+- Hydrogen gas is released
+<br>
+<br>
+<br>
+<br>
+## Environmental Impact Comparison
 
 
