@@ -48,7 +48,7 @@ Cathode compartment;
 <br>
 Anode side:
 - Anodes are in aqueous sodium chloride above liquid mercury.
-  - Reduction of chlorine ions (Cl-) produce chlorine gas (Cl<sub>2</sub>).
+- Reduction of chlorine ions (Cl-) produce chlorine gas (Cl<sub>2</sub>).
 - Chlorine gas is released
 <br>
 <br>
