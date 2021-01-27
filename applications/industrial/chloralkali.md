@@ -27,14 +27,15 @@ Since reaction 6 has a less negative electrode potential, it would seemingly be 
 <br>
 ### Diaphragm Cell
 <img src="https://samir8000.github.io/NaOH/images/diaphragmcell.png"><br>
-Anode compartment:<br>
+<br>
+Anode compartment:
 - The anode compartment is filled with aqueous sodium chloride
 - The anode is either graphite or titanium
 - Cl- is oxidized to produce Cl2 in the anode compartment
 - Chlorine gas is released
 <br>
 <br>
-Cathode compartment;<br>
+Cathode compartment;
 - Water is reduced to produce OH-(aq) and H<sub>2</sub>(g) 
 - There is unequal solution levels between the two compartments, with the anode compartment solution being at a higher level. This results in a gradual flow of aqueous sodium chloride into the cathode side (the sodium then reacts with hydroxide to form sodium hydroxide). The unequal levels also prevent backflow of sodium hydroxide into the anode. If sodium hydroxide were to get into the anode side, chlorine gas and sodium hydroxide would react, making the chlorine gas (Cl<sub>2</sub>) form hypochlorite (ClO-), chlorate (ClO<sub>3</sub>-), chlorine (Cl-) ions (which is undesirable in this process).
 - The cathode compartment solution also has aqueous sodium chloride mixed in from the flow of the anode to cathode compartment. For more pure sodium hydroxide, the salt can be purified out of the solution. 
@@ -44,7 +45,8 @@ Cathode compartment;<br>
 <br>
 ### Mercury Cell (Castner-Kellner process):
 <img src="https://samir8000.github.io/NaOH/images/mercurycell.png"><br>
-Anode side:<br>
+<br>
+Anode side:
 - Anodes are in aqueous sodium chloride above liquid mercury.
   - Reduction of chlorine ions (Cl-) produce chlorine gas (Cl<sub>2</sub>).
 - Chlorine gas is released
@@ -52,7 +54,7 @@ Anode side:<br>
 <br>
 Cathode side:<br>
 - The cathode is a liquid layer of mercury
-  - The reaction of water to H<sub>2</sub> has a relatively high overpotential, so the more likely reaction to occur is the reduction of Na+ to Na. Na is then dissolved in mercury forming the Na-Hg alloy amalgam. This is then pumped into water, resulting in the following reaction:<br><img src="https://samir8000.github.io/NaOH/images/mercurycellreaction.png">
+ - The reaction of water to H<sub>2</sub> has a relatively high overpotential, so the more likely reaction to occur is the reduction of Na+ to Na. Na is then dissolved in mercury forming the Na-Hg alloy amalgam. This is then pumped into water, resulting in the following reaction:<br><img src="https://samir8000.github.io/NaOH/images/mercurycellreaction.png">
 - The liquid Hg is recycled back from the bottom of the tank to act as the cathode
 - H<sub>2</sub> gas is released
 - The product solution is very pure aqueous NaOH (from Na+ and OH- ions reacting).
@@ -61,7 +63,8 @@ Cathode side:<br>
 ### Membrane Cell Process (preferred method)
 The membrane cell process is preferred over the two other aforementioned methods due to it necessitating less electric energy and produces the most pure NaOH solution of the three methods. Cl- contamination is only 50 ppm.<br>
 <img src="https://samir8000.github.io/NaOH/images/membranecell.png"><br>
-Anode side:<br>
+<br>
+Anode side:
 - Brine, highly concentrated aqueous NaCl, is pumped into the anode compartment
 - Current is passed through the cell, splitting the sodium chloride into Na+ and Cl-.
 - The chlorine ions are oxidized, forming chlorine gas (which is released)
@@ -71,7 +74,7 @@ Anode side:<br>
 The anode and cathode compartments are separated by an ion-permeable membrane.<br>
 <br>
 Cathode side:<br>
-- Water is reduced, forming hydroxide and hydrogen gas (2H<sub>2</sub>O ---> H<sub>2</sub> + 2OH-
+- Water is reduced, forming hydroxide and hydrogen gas (2H<sub>2</sub>O ---> H<sub>2</sub> + 2OH-)
 - The sodium ions that pass through the membrane from the anode compartment reacts with the hydroxide ions, forming aqueous sodium hydroxide.
 - Hydrogen gas is released
 <br>
