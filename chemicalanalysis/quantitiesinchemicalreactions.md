@@ -29,7 +29,7 @@ Reaction: NaOH(aq) + HCl(aq) → NaCl(aq) + H<sub>2</sub>O(l)
 - H<sub>2</sub>O = 18.02g/mol
 
 ## Percent composition:
-NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)<br>
+NaOH(aq) + HCl(aq) → NaCl(aq) + H<sub>2</sub>O(l)<br>
 <br>
 Total<sub>mass</sub> = Na<sub>mass</sub> + O<sub>mass</sub> + 2(H<sub>mass</sub>) + Cl<sub>mass</sub><br> 
 Total<sub>mass</sub> = 22.99g/mol + 16g/mol + 2(1.01g/mol) + 35.45g/mol<br>
@@ -110,8 +110,6 @@ Solving for mass of NaOH given 50g Na<sub>2</sub>CO<sub>3</sub><br>
 Formulas:<br>
 n{x} = n{Na<sub>2</sub>CO<sub>3</sub>} * (ratio of n{x} /n{y})<br>
 m = n * M<br>
-<br>
-<br>
 ### Molar Mass
 M{Na<sub>2</sub>CO<sub>3</sub>} = 2M{Na} + M{C} + 3M{O}<br>
 M{Na<sub>2</sub>CO<sub>3</sub>} = 45.98g/mol + 12.01g/mol + 48g/mol<br>
