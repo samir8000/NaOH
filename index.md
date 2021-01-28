@@ -1,8 +1,8 @@
 # Sodium Hydroxide
 
-Sodium Hydroxide, otherwise referred to as caustic soda or lye, is an ionic compound composed of the sodium cation (Na+), and the hydroxide anion (OH- ). It is highly soluble in water and is highly alkaline. It is a useful industrial product, but is not often used in home products, due to some of its harmful properties, such as corrosiveness, which can cause bodily harm if in direct contact with humans.
-
-
+Sodium Hydroxide, otherwise referred to as caustic soda or lye, is an ionic compound composed of the sodium cation (Na+), and the hydroxide anion (OH- ). It is highly soluble in water and is highly alkaline. It is a useful industrial product, but is not often used in home products, due to some of its harmful properties, such as corrosiveness, which can cause bodily harm if in direct contact with humans.<br>
+<img src="https://thedermreview.com/wp-content/uploads/2018/08/Sodium-Hydroxide.png"><br>
+<br>
 ## Chemical Analysis
 
 [Matter and Chemical Bonding](https://samir8000.github.io/NaOH/chemicalanalysis/matterandchemicalbonding)<br>
