@@ -44,8 +44,8 @@ A sodium-mercury amalgam reacts with water forming Na+, OH-, H<sub>2</sub>, and 
 <br>
 ### Kraft Process
 [Read more](https://samir8000.github.io/NaOH/applications/industrial/kraft)<br>
-A solution of sodium hydroxide (main constituent) and sodium sulfate is used to chemically digest wood (under high temperatures) into cellulosic pulp for paper making:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NaOH + NaS<sub>2</sub> + Wood ---> Na-org. + S-org. + NaHS
+A solution of sodium hydroxide (main constituent) and sodium sulfide is used to chemically digest wood (under high temperatures) into cellulosic pulp for paper making:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NaOH + Na<sub>2</sub>S + Wood ---> Na-org. + S-org. + NaHS
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(“Na-org” represent a variety of compounds with sodium)
 <br><br>
@@ -56,7 +56,7 @@ A solution of sodium hydroxide (main constituent) and sodium sulfate is used to 
 <br><br><br>
 Residuals from the kraft process can be recycled into sodium hydroxide (which can be reused for the main process)<br>
 <br>
-Sodium sulfate is reacted with carbon under high temperatures to form sodium sulfate and carbon dioxide:<br>
+Sodium sulfate is reacted with carbon under high temperatures to form sodium sulfide and carbon dioxide:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na<sub>2</sub>SO<sub>4</sub>(aq) + 2C(s) + heat ---> Na<sub>2</sub>S(aq) + 2CO<sub>2</sub>(g)<br>
 <br>	
 The products of the above reaction then react with oxygen forming sodium carbonate and sulfur 
