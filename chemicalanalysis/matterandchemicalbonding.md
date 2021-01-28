@@ -165,14 +165,14 @@
 ## References
 Jenkins, F. (2002). Nelson chemistry 11. Nelson Thomson Learning.<br>
 <br>
-National Center for Biotechnology Information (2021a). PubChem Element Summary for Atomic Number 1, Hydrogen.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen.](https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen)<br>
+National Center for Biotechnology Information (2021a). PubChem Element Summary for<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atomic Number 1, Hydrogen. [https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen.](https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen)<br>
 <br>
-National Center for Biotechnology Information (2021b). PubChem Element Summary for Atomic Number 8, Oxygen.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/element/Oxygen.](https://pubchem.ncbi.nlm.nih.gov/element/Oxygen)<br>
+National Center for Biotechnology Information (2021b). PubChem Element Summary for Atomic<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Number 8, Oxygen. [https://pubchem.ncbi.nlm.nih.gov/element/Oxygen.](https://pubchem.ncbi.nlm.nih.gov/element/Oxygen)<br>
 <br>
-National Center for Biotechnology Information (2021c). PubChem Element Summary for Atomic Number 11, Sodium.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/element/Sodium.](https://pubchem.ncbi.nlm.nih.gov/element/Sodium)<br>
+National Center for Biotechnology Information (2021c). PubChem Element Summary for Atomic<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Number 11, Sodium. [https://pubchem.ncbi.nlm.nih.gov/element/Sodium.](https://pubchem.ncbi.nlm.nih.gov/element/Sodium)<br>
 <br>
-National Center for Biotechnology Information (2021d). PubChem Compound Summary for CID 14798, Sodium hydroxide.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide.](https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide)
+National Center for Biotechnology Information (2021d). PubChem Compound Summary for<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CID 14798, Sodium hydroxide. [https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide.](https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide)
