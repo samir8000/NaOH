@@ -31,13 +31,13 @@ Since reaction 6 has a less negative electrode potential, it would seemingly be 
 Anode compartment:
 - The anode compartment is filled with aqueous sodium chloride
 - The anode is either graphite or titanium
-- Cl- is oxidized to produce Cl2 in the anode compartment
+- Cl- is oxidized to produce Cl<sub>2</sub> in the anode compartment
 - Chlorine gas is released
 <br>
 <br>
-Cathode compartment;
+Cathode compartment:
 - Water is reduced to produce OH-(aq) and H<sub>2</sub>(g) 
-- There is unequal solution levels between the two compartments, with the anode compartment solution being at a higher level. This results in a gradual flow of aqueous sodium chloride into the cathode side (the sodium then reacts with hydroxide to form sodium hydroxide). The unequal levels also prevent backflow of sodium hydroxide into the anode. If sodium hydroxide were to get into the anode side, chlorine gas and sodium hydroxide would react, making the chlorine gas (Cl<sub>2</sub>) form hypochlorite (ClO-), chlorate (ClO<sub>3</sub>-), chlorine (Cl-) ions (which is undesirable in this process).
+- There is unequal solution levels between the two compartments, with the anode compartment solution being at a higher level. This results in a gradual flow of aqueous sodium chloride into the cathode side (the sodium then reacts with hydroxide to form sodium hydroxide). The unequal levels also prevent backflow of sodium hydroxide into the anode. If sodium hydroxide were to get into the anode side, chlorine gas and sodium hydroxide would react, making the chlorine gas (Cl<sub>2</sub>) form hypochlorite (ClO-), chlorate (ClO<sub>3</sub><sup>-</sup>), chlorine (Cl-) ions (which is undesirable in this process).
 - The cathode compartment solution also has aqueous sodium chloride mixed in from the flow of the anode to cathode compartment. For more pure sodium hydroxide, the salt can be purified out of the solution. 
 - Product solution before purification: 14-16% NaCl(aq) and 10-12% NaOH(aq). The solution can be concentrated which results in sodium chloride crystallization forming a solution 50% NaOH(aq) and 1% NaCl(aq).
 - Hydrogen gas is released
@@ -52,9 +52,9 @@ Anode side:
 - Chlorine gas is released
 <br>
 <br>
-Cathode side:<br>
+Cathode side:
 - The cathode is a liquid layer of mercury
- - The reaction of water to H<sub>2</sub> has a relatively high overpotential, so the more likely reaction to occur is the reduction of Na+ to Na. Na is then dissolved in mercury forming the Na-Hg alloy amalgam. This is then pumped into water, resulting in the following reaction:<br><img src="https://samir8000.github.io/NaOH/images/mercurycellreaction.png">
+- The reaction of water to H<sub>2</sub> has a relatively high overpotential, so the more likely reaction to occur is the reduction of Na+ to Na. Na is then dissolved in mercury forming the Na-Hg alloy amalgam. This is then pumped into water, resulting in the following reaction:<br><img src="https://samir8000.github.io/NaOH/images/mercurycellreaction.png">
 - The liquid Hg is recycled back from the bottom of the tank to act as the cathode
 - H<sub>2</sub> gas is released
 - The product solution is very pure aqueous NaOH (from Na+ and OH- ions reacting).
@@ -73,7 +73,7 @@ Anode side:
 <br>
 The anode and cathode compartments are separated by an ion-permeable membrane.<br>
 <br>
-Cathode side:<br>
+Cathode side:
 - Water is reduced, forming hydroxide and hydrogen gas (2H<sub>2</sub>O ---> H<sub>2</sub> + 2OH-)
 - The sodium ions that pass through the membrane from the anode compartment reacts with the hydroxide ions, forming aqueous sodium hydroxide.
 - Hydrogen gas is released
@@ -112,21 +112,21 @@ The measurement of NR consists of the consumption of energy (X<sub>1,1</sub>), m
 The primary environmental burdens are associated with the air (X2,1), water (X2,2), and land (X2,3).
 <br>
 Impact categories:
-Air:
+##### Air:
 - Atmospheric acidification (AA)
 - Global warming (GW)
 - Human health (carcinogenic) effects (HHE)
 - Stratospheric ozone depletion (SOD)
 - Photochemical ozone (smog) formation (POF)
 <br>
-Water:
+##### Water:
 - Aquatic acidification (AqA)
 - Aquatic oxygen demand (AOD)
 - Ecotoxicity to aquatic life (metals to seawater) (MEco)
 - Ecotoxicity to aquatic life (other substances) (NMEco)
 - Eutrophication (EU)
 <br>
-Land:
+##### Land:
 - Amount of generated hazardous waste (HW)
 - Amount of generated non-hazardous waste (HNW)
 <br>
@@ -142,12 +142,12 @@ i = the different NR indicators (energy, materials, water)
 X*<sub>1,i</sub> = measurement of the ratio between the chloralkali process method and the reference point:
 <br>
 
-<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation1.png"
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation1.png">
 The variables are then weighted by their relative importance to provide a score for the process in its entirety.
 <br>
 α<sub>1,i</sub> = weighting factor for different NR indicators
 X<sub>1</sub> = total weighted score of the chloralkali method in relation to resource consumption.
-<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation2.png"
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation2.png">
 <br>
 <br>
 #### Environmental Burden:
@@ -156,7 +156,7 @@ EB is measured differently depending on the impact category considered. The valu
 j = environmental compartment (air, water, land)
 k = impact category
 X*<sub>2,j,k</sub> = measurement of the EB in comparison with the reference point X<sup>ref</sup><sub>2,j,k</sub>.
-<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation3.png"
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation3.png">
 <br>
 The variables are weighted in accordance with a weighting factor determined by the importance of each impact category
 <br>
@@ -194,15 +194,16 @@ The following diagram will display the ratio of resource consumption as it relat
 Table denoting the environmental burden scores:
 <img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentresults2.png">
 <br>
-Air:
+##### Air:
 - Most significant impact categories: Photochemical ozone (smog) formation (POF) and Human health (carcinogenic) effects.
 <br>
-Water:
+##### Water:
 - Most significant impact category: Eutrophication (EU)
 - Other significant categories: Ecotoxicity to aquatic life (metals to seawater) (MEco and NMeCO)
 <br>
-Land:
+##### Land:
 - Both land impact categories are not highly significant to the total environmental burden.
+<br>
 <br>
 <br>
 The above table shows that the mercury cell method poses the greatest environmental burden, followed by the diaphragm cell, with the membrane cell being the least burdensome.
