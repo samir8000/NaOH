@@ -81,5 +81,107 @@ The calcium carbonate that is produced precipitates, and is then decomposed in a
 *(based on a study by Jawjit (2006) of Wageningen University, on the environmental impact posed by large scale eucalyptus-based kraft pulp production in thailand)*<br>
 <img src = "https://samir8000.github.io/NaOH/images/kraftprocess4.png">
 <br>
+<br>
+<br>
+### Methodology
+<br>
+Environmental problems assessed:
+- Global Warming: CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O (emissions related)
+- Acidification: SO<sub>2</sub>, NO<sub>x</sub>
+- Eutrophication (over enrichment of soil): COD (chemical oxygen demand), PO<sub>4</sub><sup>3-</sup>, NO<sup>3-</sup>, total N, and total P
+- Smog:  NMVOC, CO, CH<sub>4</sub>
+- Human Toxicity: AOX, TRS, SO<sub>2</sub>, and NO<sub>x</sub>
+- Waste Production<br>
+<br>
+EMISSION = ACTIVITY × EMISSION FACTOR (1) 
+<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess6-1.png"><br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess6-2.png"><br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess6-3.png"><br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess6-4.png"><br>
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IMPACT = EMISSION × CLASSIFICATION FACTOR (2)<br>
+<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess7.png"><br>
+<br>
+<br>
+### Results
+Global warming:<br>
+- Approximately 2.9 Mton CO<sub>2</sub> equivalents of greenhouse gas is emitted annually from the kraft pulp industry.<br> 
+- Emissions: CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O (CO<sub>2</sub> accounts for almost all of the global warming contribution)<br>
+- Biomass combustion for energy ranks the greatest contributor of the industry processes (65%) The second most contributory process is lime (calcium carbonate) burning (30%). Despite this, upon further analysis, these processes become less of a factor than it seems. The emission of CO<sub>2</sub> from biomass combustion is normally excluded from greenhouse gas effect measurements since it is of biogenic origin, so the carbon emissions are actually recycled, meaning a net 0 increase in emission. The CO<sub>2</sub> emissions from the lime kiln is similarly disregarded as it reacts forming calcium carbonate. After this adjustment in analysis, the main greenhouse gas effect contributor becomes bunker oil use, with total emission reduced to 0.13 Mton CO<sub>2</sub>-eq/year.<br>
+<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess8.png"><br>
+<br>
+<br>
+Acidifying compounds:
+- The annual emissions of SO<sub>2</sub> and NO<sub>x</sub> are 3.6 kton SO<sub>2</sub>-eq, SO<sub>2</sub> 
+- The chemical recovery unit contributes the most to acidification emissions (64%)
+- Biomass combustion results in 34% of the emissions<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess9.png"><br>
+<br>
+Eutrophying compounds:
+- 2 kton PO<sub>4</sub>-eq is emitted
+- NO<sub>x</sub> and PO<sub>4</sub> arises from fertilizer use 
+- N and COD arises from pulp production unit
+- P is from wastewater treatment unit<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess10.png"><br>
+<br>
+Tropospheric ozone precursors:
+- 1.7 kton/year emissions 
+- Main components: NMVOC (Non-methane volatile organic compounds), CO, CH<sub>4</sub>, and NO<sub>x</sub>
+- CO accounts for the vast majority of the emissions
+- Main producing processes: Biomass combustion (80%) and chemical recovery unit (14%)
+- Total emissions are negligible in relation to this environmental problem
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess11.png"><br>
+<br>
+Human toxicity:
+- 6.9 kton C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub>-eq/ year
+- Pollutants considered: TRS, AOX, SO<sub>2</sub>, NO<sub>x</sub>, and particulates
+- Biomass combustion NO<sub>x</sub> emissions contribute the most to toxic substance emissions (2.07 kton equivalents / year)
+- AOX emission from pulp bleaching and NOx emission from the chemical recovery unit are the are the next most contributory.
+- Odorous TRS is emitted from pulp cooking and the chemical recovery unit<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess12.png"><br>
+<br>
+Waste production:
+- The majority of raw material residues (organic residues, bark and wood) are used as fuel for energy (which account for 283,240 ton/year) 
+- Sludge from wastewater treatment plant (which are also used for energy after a dewatering process) account for 9,125 ton/year<br>
+<br>
+- Non-recyclable solids include lime mud, dregs and grits waste, which end up in landfills, are emitting from the chemical recovery unit as well as energy generation unit. 
+- Lime mud to be landfilled: 60955 ton/year
+- Other solid waste: 93075 ton/year.<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess13.png"><br>
+<br>
+<br>
+<br>
+<br>
+### Conclusion
+Major impact:
+- The significant subsystems relating to environmental pressures arising from the Kraft process are the energy generation unit, chemical recovery units, pulp production units, and wastewater treatment unit. 
+- The Kraft process contributes to the greenhouse effect via the emission such as CO<sub>2</sub>, CO, and NO<sub>x</sub>. 
+- The chemical recovery subsystem is the main source of SO<sub>2</sub> and inorganic solid waste, contributing towards the issue of acidification and waste production respectively. 
+- Pulp bleaching is the major source of AOX, contributing to the emission of toxic substances. 
+- Wastewater treatment (through the emission of P) is the most significant cause of eutrophication
+- TRS, an odorous toxic substance, is emitted primarily during the pulp cooking and and chemical recovery unit.<br>
+<img src = "https://samir8000.github.io/NaOH/images/kraftprocess14.png"><br>
+<br>
+<br>
+<br>
+<br>
+## References
+Jawjit, W. (2006). An environmental systems analysis of the Kraft pulp industry in Thailand.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://edepot.wur.nl/43816](https://edepot.wur.nl/43816)<br>
+<br>
+Lindedahl, K. (2008). Chemical Reactions in Kraft Pulping.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[http://www.h2obykl.com/images/Reactions%20in%20Kraft%20Pulping.pdf](https://www3.epa.gov/ttn/chief/ap42/ch10/)<br> 
+<br>
+United States Environmental Protection Agency. (1990, September). AP 42, Fifth Edition, Volume 1,<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chapter 10: Wood Products Industry, Section 2: Chemical Wood Pulping. EPA. [https://www3.epa.gov/ttn/chief/ap42/ch10/](https://www3.epa.gov/ttn/chief/ap42/ch10/).<br>
+
+
+
+
+
 
 
