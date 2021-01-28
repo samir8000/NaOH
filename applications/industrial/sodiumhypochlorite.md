@@ -56,8 +56,8 @@ Flores, A. C., Reyes, H. F., Moscoso, A. G., Cázares, J. P. C., & Guillén, A. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://doi.org/10.17796/jcpd.33.3.c6282t1054584157](https://doi.org/10.17796/jcpd.33.3.c6282t1054584157)    
 <br>
 International Association for Soaps, Detergents and Maintenance Products. (1997, March). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BENEFITS AND SAFETY ASPECTS OF HYPOCHLORITE FORMULATED IN DOMESTIC PRODUCTS.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AISE. [https://www.aise.eu/cust/documentrequest.aspx?DocID=132](https://www.aise.eu/cust/documentrequest.aspx?DocID=132)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BENEFITS AND SAFETY ASPECTS OF HYPOCHLORITE FORMULATED IN DOMESTIC <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PRODUCTS. AISE. [https://www.aise.eu/cust/documentrequest.aspx?DocID=132](https://www.aise.eu/cust/documentrequest.aspx?DocID=132)<br>
 <br>
 May, P. (2011, October). Sodium Hypochlorite. University of Bristol.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[http://www.chm.bris.ac.uk/motm/bleach/bleachh.htm](http://www.chm.bris.ac.uk/motm/bleach/bleachh.htm)  
