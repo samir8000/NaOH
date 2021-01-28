@@ -44,4 +44,4 @@ One environmental harm that may arise with sodium hydroxide is that it can incre
 <br>
 ### References
 Evonik Industries. (2011, November). GPS Safety Summary: Sodium Hydroxide (NaOH). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://corporate.evonik.com/downloads/corporate/gps-summaries/gps-summary-sodium-hydroxide-(naoh).pdf. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://corporate.evonik.com/downloads/corporate/gps-summaries/gps-summary-sodium-hydroxide.](https://corporate.evonik.com/downloads/corporate/gps-summaries/gps-summary-sodium-hydroxide-(naoh).pdf) 
