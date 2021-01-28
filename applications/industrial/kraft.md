@@ -13,7 +13,7 @@ Converting harvested wood into cellulosic pulp to be utilized for papermaking. T
 The kraft process shown in the above diagram starts by placing wood chips under high temperatures and pressure in a substance known as “white liquor”, consisting of sodium hydroxide (main constituent) and sodium sulfide dissolved in water. This white liquor chemically decomposes the lignin from the wood, which are polymers that play a key role in binding the cellulose fibers together to maintain the wood’s structure (making the product pulp more readily able to be transformed into paper).
 <br>
 <br>
-NaOH + NaS<sub>2</sub> + Wood ---> Na-org. + S-org. + NaHS
+NaOH + Na<sub>2</sub>S + Wood ---> Na-org. + S-org. + NaHS
 <br>
 <br>
 “Na-org” represent a variety of compounds with sodium
