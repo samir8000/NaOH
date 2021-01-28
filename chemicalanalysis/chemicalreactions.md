@@ -34,7 +34,7 @@ A sodium-mercury amalgam reacts with water forming Na+, OH-, H<sub>2</sub>, and 
 <br>
 <br>
 ## Kraft Process
-[Read more]()
+[Read more](https://github.com/samir8000/NaOH/blob/gh-pages/applications/industrial/kraft.md)<br>
 A solution of sodium hydroxide (main constituent) and sodium sulfate is used to chemically digest wood (under high temperatures) into cellulosic pulp for paper making:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NaOH + NaS<sub>2</sub> + Wood ---> Na-org. + S-org. + NaHS
 <br><br>
@@ -61,4 +61,5 @@ forming calcium hydroxide:<br>
 Calcium hydroxide reacts with the sodium carbonate forming calcium carbonate and sodium 
 hydroxide:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na<sub>2</sub>CO<sub>3</sub>(aq) + Ca(OH)<sub>2</sub>(s) ---> CaCO<sub>3</sub>(s) + 2NaOH(aq) (Double Displacement)
+
 
