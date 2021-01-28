@@ -69,10 +69,9 @@
   </tr>
 </tbody>
 </table>
-(National Center for Biotechnology Information, 2021a)
-(National Center for Biotechnology Information, 2021b)
-(National Center for Biotechnology Information, 2021c)
-
+(National Center for Biotechnology Information, 2021a)<br>
+(National Center for Biotechnology Information, 2021b)<br>
+(National Center for Biotechnology Information, 2021c)<br>
 <br>
 <br>
 ## Periodic Trend Data (bonding elements)
@@ -119,13 +118,13 @@
   </tr>
 </tbody>
 </table>
-(Jenkins, 2002)
+(Jenkins, 2002)<br>
 <br>
 <br>
 <br>
 <br>
 ## Compound's Properties
-(National Center for Biotechnology Information, 2021d)
+(National Center for Biotechnology Information, 2021d)<br>
 ### Physical Properties
 - White solid
 - Odourless
