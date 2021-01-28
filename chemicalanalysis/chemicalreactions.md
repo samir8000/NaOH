@@ -16,11 +16,13 @@ hydrochloric acid + sodium hydroxide (base) ---> sodium chloride + water:<br>
 <br>
 <br>
 sulfuric acid + sodium hydroxide (base) ---> sodium sulfate + water:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H<sub>2</sub>SO<sub>4</sub>(aq) + 2NaOH(aq) ---> Na<sub>2</sub>SO<sub>4</sub>(aq) + 2H<sub>2</sub>O(l)<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H<sub>2</sub>SO<sub>4</sub>(aq) + 2NaOH(aq) ---> Na<sub>2</sub>SO<sub>4</sub>(aq) + 2H<sub>2</sub>O(l)<br>
 <br><br>
 ## Decomposition Reaction
 sodium hydroxide ---> sodium oxide + water
-2NaOH(s) ---> Na<sub>2</sub>O(s)+H<sub>2</sub>O(g)
+2NaOH(s) ---> Na<sub>2</sub>O(s)+H<sub>2</sub>O(g)<br>
+<br>
+<br>
 <br>
 <br>
 
