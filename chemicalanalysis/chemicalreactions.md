@@ -1,14 +1,22 @@
 # Chemical Reactions
 
-## Neutralization reaction
-
+## Neutralization Reactions
 hydrochloric acid + sodium hydroxide (base) ---> sodium chloride + water:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HCl(aq) + NaOH(aq) ---> NaCl(aq) + H<sub>2</sub>O(l)<br>
 <br>
 <br>
 sulfuric acid + sodium hydroxide (base) ---> sodium sulfate + water:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H<sub>2</sub>SO<sub>4</sub>(aq) + 2NaOH(aq) ---> Na<sub>2</sub>SO<sub>4</sub>(aq) + 2H<sub>2</sub>O(l)<br><br>
-
+<br><br>
+## Single Displacement Reactions
+Sodium + water ---> sodium hydroxide + hydrogen gas:<br>
+2Na(s) + 2H<sub>2</sub>O(l) → 2NaOH(aq) + H<sub>2</sub>(g)
+<br><br>
+## Double Displacement Reaction
+cobalt (ii) chloride + sodium hydroxide ---> cobalt (ii) hydroxide + sodium chloride:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CoCl<sub>2</sub>(aq) + 2NaOH(aq) ---> Co(OH)<sub>2</sub>(s) + 2NaCl(aq)<br>
+<br><br>
+##
 <br><br>
 ## Chloralkali process (three methods):<br>
 [Read more]()
