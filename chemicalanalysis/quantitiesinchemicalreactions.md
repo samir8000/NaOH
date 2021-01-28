@@ -4,7 +4,7 @@ NaOH<sub>mass</sub> = Na<sub>mass</sub> + O<sub>mass</sub> + H<sub>mass</sub>
 	
 NaOH<sub>mass</sub> = 22.99g/mol + 16g/mol + 1.01 g/mol
 
-NaOH<sub>mass</sub> = 40 g/mol
+NaOH<sub>mass</sub> = 40 g/mol<br>
 <br>
 <br>
 <br>
