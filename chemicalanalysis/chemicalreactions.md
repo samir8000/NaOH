@@ -2,7 +2,7 @@
 
 ## Single Displacement Reactions
 sodium + water ---> sodium hydroxide + hydrogen gas:<br>
-2Na(s) + 2H<sub>2</sub>O(l) → 2NaOH(aq) + H<sub>2</sub>(g) (sodium hydroxide synthesis)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2Na(s) + 2H<sub>2</sub>O(l) → 2NaOH(aq) + H<sub>2</sub>(g) (sodium hydroxide synthesis)
 <br><br>
 ## Double Displacement Reaction
 ### Precipitation
@@ -19,6 +19,7 @@ sulfuric acid + sodium hydroxide (base) ---> sodium sulfate + water:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H<sub>2</sub>SO<sub>4</sub>(aq) + 2NaOH(aq) ---> Na<sub>2</sub>SO<sub>4</sub>(aq) + 2H<sub>2</sub>O(l)<br><br>
 <br><br>
 ## Decomposition Reaction
+sodium hydroxide ---> sodium oxide + water
 2NaOH(s) ---> Na<sub>2</sub>O(s)+H<sub>2</sub>O(g)
 <br>
 <br>
