@@ -217,7 +217,7 @@ The mercury cell method for chloralkali production is the least environmentally 
 <br>
 ## References
 Case Study: Industrial Electrolysis. (2020, August 15). Chemistry LibreTexts. Retrieved from 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://chem.libretexts.org/@go/page/254](https://chem.libretexts.org/@go/page/254) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://chem.libretexts.org/@go/page/254](https://chem.libretexts.org/@go/page/254)<br> 
 <br>
 Garcia-Herrero, I., Margallo, M., Onandía, R., Aldaco, R., &amp; Irabien, A. (2017). Environmental 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;challenges of the chlor-alkali production: Seeking answers from a life cycle approach. 
