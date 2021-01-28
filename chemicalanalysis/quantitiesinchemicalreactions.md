@@ -123,7 +123,7 @@ n{Na<sub>2</sub>CO<sub>3</sub>} = 0.47 mol <br>
 M{NaOH} = M{Na} + M{O} + M{H}<br>
 M{NaOH} = 22.99g/mol + 16.00g/mol + 1.01g/mol<br> 
 M{NaOH} = 40g/mol<br>
-<br>
+### Mass
 n{NaOH} = (n{Na<sub>2</sub>CO<sub>3</sub>} * (ratio of n{NaOH} /n{Na<sub>2</sub>CO<sub>3</sub>})<br>
 n{NaOH} = (0.47mol * 2)<br>
 n{NaOH} = 0.94mol<br>
