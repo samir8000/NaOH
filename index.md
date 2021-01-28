@@ -12,7 +12,6 @@ Sodium Hydroxide, otherwise referred to as caustic soda or lye, is an ionic comp
 [Quantities in Chemical Reactions](https://samir8000.github.io/NaOH/chemicalanalysis/quantitiesinchemicalreactions)<br>
 <br>
 [Solutions and Solubility](https://samir8000.github.io/NaOH/chemicalanalysis/solutionsandsolubility)<br>
-<img src="https://d12oja0ew7x0i8.cloudfront.net/images/Article_Images/ImageForArticle_18680_15768405598774625.png" height=200>
 <br>
 <br>
 <br>
