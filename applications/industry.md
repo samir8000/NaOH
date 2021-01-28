@@ -30,4 +30,22 @@ Hard water is a term that describes water with certain metal ions dissolved with
 <br>
 <br>
 <br>
-
+### Additional Applications
+(Sodium Hydroxide: Uses, Benefits, and Chemical Safety Facts 2020)
+#### Saponification
+Sodium hydroxide is used to manufacture soaps, as well as various detergents, used both in the home and commercial applications.<br>
+<br>
+#### Pharmaceuticals
+Sodium hydroxide is used in the manufacture of pharmaceutical products such as aspirin, anticoagulants, and cholesterol-reducing medication.<br>
+<br>
+#### Energy
+Sodium hydroxide is used in the production of fuel cells, which are a clean and efficient method to producing electricity.<br>
+<br>
+#### Food Production
+Sodium hydroxide is used to remove skin from fruits and vegetables in canning products<br>
+<br>
+#### Additional Use in Manufacture
+Sodium hydroxide is also used in the manufacture of rayon, spandex, explosives, epoxy resins, paints, glass and ceramics.<br>
+<br>
+#### References
+Sodium Hydroxide: Uses, Benefits, and Chemical Safety Facts. (2020, July 30). [https://www.chemicalsafetyfacts.org/sodium-hydroxide/](https://www.chemicalsafetyfacts.org/sodium-hydroxide/). 
