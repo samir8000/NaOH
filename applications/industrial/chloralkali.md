@@ -153,9 +153,9 @@ X<sub>1</sub> = total weighted score of the chloralkali method in relation to re
 #### Environmental Burden:
 EB is measured differently depending on the impact category considered. The values in the European Pollutant Release and Transfer Register regulation are the reference points.
 <br>
-j = environmental compartment (air, water, land)
-k = impact category
-X*<sub>2,j,k</sub> = measurement of the EB in comparison with the reference point X<sup>ref</sup><sub>2,j,k</sub>.
+j = environmental compartment (air, water, land)<br>
+k = impact category<br>
+X*<sub>2,j,k</sub> = measurement of the EB in comparison with the reference point X<sup>ref</sup><sub>2,j,k</sub>.<br>
 <img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation3.png"><br>
 <br>
 The variables are weighted in accordance with a weighting factor determined by the importance of each impact category
