@@ -109,7 +109,7 @@ The measurement of NR consists of the consumption of energy (X<sub>1,1</sub>), m
 <br>
 <br>
 #### EB: Environmental burden:
-The primary environmental burdens are associated with the air (X2,1), water (X2,2), and land (X2,3).
+The primary environmental burdens are associated with the air (X<sub>2,1</sub), water (X<sub>2,2</sub>), and land (X<sub>2,3</sub>).
 <br>
 Impact categories:
 ##### Air:
@@ -142,12 +142,12 @@ i = the different NR indicators (energy, materials, water)
 X*<sub>1,i</sub> = measurement of the ratio between the chloralkali process method and the reference point:
 <br>
 
-<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation1.png">
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation1.png"><br>
 The variables are then weighted by their relative importance to provide a score for the process in its entirety.
 <br>
 α<sub>1,i</sub> = weighting factor for different NR indicators
 X<sub>1</sub> = total weighted score of the chloralkali method in relation to resource consumption.
-<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation2.png">
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation2.png"><br>
 <br>
 <br>
 #### Environmental Burden:
@@ -156,7 +156,7 @@ EB is measured differently depending on the impact category considered. The valu
 j = environmental compartment (air, water, land)
 k = impact category
 X*<sub>2,j,k</sub> = measurement of the EB in comparison with the reference point X<sup>ref</sup><sub>2,j,k</sub>.
-<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation3.png">
+<img src="https://samir8000.github.io/NaOH/images/chloralkalimeasurementequation3.png"><br>
 <br>
 The variables are weighted in accordance with a weighting factor determined by the importance of each impact category
 <br>
@@ -168,10 +168,10 @@ X<sub>2,j</sub> = total weighted environmental burden of a domain (air, water, o
 <br>
 <br>
 ### Results
-<img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentresults.png">
+<img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentresults.png"><br>
 As shown in the above table, the natural resource consumption of scenario 2, the membrane cell, consumes less natural resources than its counterparts in all three metrics (energy, materials, and water). The diaphragm cell (scenario 3) ranks second in terms of resource consumption, with the mercury cell, scenario 1, consuming the most energy, materials, and water.
 <br>
-The following diagram will display the ratio of resource consumption as it relates to different stages in the production process:
+The following diagram will display the ratio of resource consumption as it relates to different stages in the production process:<br>
 <img src="https://samir8000.github.io/NaOH/images/chloralkalienvironmentresults1.png">
 <br>
 #### Energy consumption (electricity, steam, diesel and natural gas):
