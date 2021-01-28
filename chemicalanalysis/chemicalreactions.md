@@ -9,7 +9,7 @@ sulfuric acid + sodium hydroxide (base) ---> sodium sulfate + water:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; H<sub>2</sub>SO<sub>4</sub>(aq) + 2NaOH(aq) ---> Na<sub>2</sub>SO<sub>4</sub>(aq) + 2H<sub>2</sub>O(l)<br><br>
 <br><br>
 ## Single Displacement Reactions
-Sodium + water ---> sodium hydroxide + hydrogen gas:<br>
+sodium + water ---> sodium hydroxide + hydrogen gas:<br>
 2Na(s) + 2H<sub>2</sub>O(l) → 2NaOH(aq) + H<sub>2</sub>(g)
 <br><br>
 ## Double Displacement Reaction
@@ -19,7 +19,7 @@ cobalt (ii) chloride + sodium hydroxide ---> cobalt (ii) hydroxide + sodium chlo
 ##
 <br><br>
 ## Chloralkali process (three methods):<br>
-[Read more]()
+[Read more](https://github.com/samir8000/NaOH/blob/gh-pages/applications/industrial/chloralkali.md)
 ### Mercury cell method: 
 A sodium-mercury amalgam reacts with water forming Na+, OH-, H<sub>2</sub>, and Hg:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 Na (in Hg) + 2H<sub>2</sub>O ---> 2Na+ + 2OH- + H<sub>2</sub> + Hg<br>
