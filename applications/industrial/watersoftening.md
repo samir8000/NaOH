@@ -4,7 +4,7 @@ Hard water is a term that describes water containing dissolved calcium, magnesiu
 <br>
 The removal of these compounds from hard water via chemical reactions is known as water softening. One of the compounds that can be used for water softening is sodium hydroxide.<br>
 <img src = "https://samir8000.github.io/NaOH/images/watersoftening.jpg"><br>
-A study by Malanova et al. (2014) details research on sodium hydroxide as a water softening reagent. In the experiment, their model of “hard water” was a solution of calcium bicarbonate (Ca(HCO<sub>3</sub>)<sub>2</sub>, its concentration being 84.16 mg/dm<sup>3</sup> of Ca<sup>2+</sup>. The alkaline reagents used for softening were ammonium hydroxide and sodium hydroxide. The solution of sodium hydroxide (10% concentration) was 0.13 cm3 in the 50 cm3 hard water model solution of calcium bicarbonate.<br>
+A study by Malanova et al. (2014) details research on sodium hydroxide as a water softening reagent. In the experiment, their model of “hard water” was a solution of calcium bicarbonate (Ca(HCO<sub>3</sub>)<sub>2</sub>, its concentration being 84.16 mg/dm<sup>3</sup> of Ca<sup>2+</sup>. The alkaline reagents used for softening were ammonium hydroxide and sodium hydroxide. The solution of sodium hydroxide (10% concentration) was 0.13 cm<sub>3</sub> in the 50 cm<sub>3</sub> hard water model solution of calcium bicarbonate.<br>
 <br>
 When sodium hydroxide is added to a solution of Ca(HCO<sub>3</sub>)<sub>2</sub>, the (dissociated) hydroxide ions react with the bicarbonate ions, forming carbonate ions and water (reaction shifted to the right to reach an equilibrium):<br> 
 <img src = "https://samir8000.github.io/NaOH/images/watersoftening1.png"><br>
