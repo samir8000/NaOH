@@ -2,7 +2,7 @@
 ## Home Uses
 (Sodium Hydroxide: Uses, Benefits, and Chemical Safety Facts 2020)<br>
 <br>
-Since sodium hydroxide is very corrosive, its exposure to humans can cause skin and eye irritation. It is thus not often used in home products.<br>
+Since sodium hydroxide is corrosive, its exposure to humans can cause skin and eye irritation. It is thus not often used in home products.<br>
 <br>
 <br>
 ### Food
