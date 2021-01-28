@@ -6,8 +6,8 @@ NaOH<sub>mass</sub> = 22.99g/mol + 16g/mol + 1.01 g/mol
 
 NaOH<sub>mass</sub> = 40 g/mol
 <br>
-## Mass Calculation
-
+<br>
+<br>
 Reaction: NaOH(aq) + HCl(aq) → NaCl(aq) + H<sub>2</sub>O(l)
 <br>
 - Na = 22.99g/mol
@@ -26,8 +26,21 @@ Reaction: NaOH(aq) + HCl(aq) → NaCl(aq) + H<sub>2</sub>O(l)
 - NaCl 58.44g/mol
 
 - H<sub>2</sub>O = 2(1.01g/mol) + 16.00g/mol
-- H<sub>2</sub>O = 18.02g/mol
-
+- H<sub>2</sub>O = 18.02g/mol<br>
+<br>
+<br>
+## Mass Calculation
+Mass of 1.20 mol NaOH<br>
+<br>
+Molar mass of NaOH = 40g/mol<br>
+<br>
+m = n * M<br>
+<br>
+m = 1.20mol * 40g/mol<br>
+<br>
+m = 48g
+<br>
+<br>
 ## Percent composition:
 NaOH(aq) + HCl(aq) → NaCl(aq) + H<sub>2</sub>O(l)<br>
 <br>
