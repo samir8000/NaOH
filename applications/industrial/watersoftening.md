@@ -9,8 +9,8 @@ A study by Malanova et al. (2014) details research on sodium hydroxide as a wate
 When sodium hydroxide is added to a solution of Ca(HCO<sub>3</sub>)<sub>2</sub>, the (dissociated) hydroxide ions react with the bicarbonate ions, forming carbonate ions and water (reaction shifted to the right to reach an equilibrium):<br> 
 <img src = "https://samir8000.github.io/NaOH/images/watersoftening1.png"><br>
 <br>
-The calcium ions in the solution react with the produced carbonate ions to form calcium carbonate, which is importantly (for water softening) insoluble in water:
-<img src = "https://samir8000.github.io/NaOH/images/watersoftening2.png><br>
+The calcium ions in the solution react with the produced carbonate ions to form calcium carbonate, which is importantly (for water softening) insoluble in water:<br>
+<img src = "https://samir8000.github.io/NaOH/images/watersoftening2.png"><br>
 <br>
 Reaction:<br>
 Ca(HCO<sub>3</sub>)<sub>2</sub>(aq) + 2NaOH(aq) ---> CaCO<sub>3</sub>(s) + 2H<sub>2</sub>O(l) + 2Na+(aq)<br>
