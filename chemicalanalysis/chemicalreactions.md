@@ -40,7 +40,7 @@ A solution of sodium hydroxide (main constituent) and sodium sulfate is used to 
 Residuals from the kraft process can be recycled into sodium hydroxide (which can be reused for the main process)<br>
 <br>
 Sodium sulfate is reacted with carbon under high temperatures to form sodium sulfate and carbon dioxide:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na<sub>2</sub>SO<sub>4</sub> + 2 C + heat ---> Na<sub>2</sub>S + 2 CO<sub>2</sub><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na<sub>2</sub>SO<sub>4</sub>(aq) + 2C(s) + heat ---> Na<sub>2</sub>S(aq) + 2CO<sub>2</sub>(g)<br>
 <br>	
 The products of the above reaction then react with oxygen forming sodium carbonate and sulfur 
 dioxide:<br>
@@ -48,9 +48,9 @@ dioxide:<br>
 	
 These products are dissolved in water and calcium oxide is added, which reacts with the water 
 forming calcium hydroxide:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaO + H<sub>2</sub>O ---> Ca(OH)<sub>2</sub><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaO(s) + H<sub>2</sub>O(l) ---> Ca(OH)<sub>2</sub>(s)<br>
 
 Calcium hydroxide reacts with the sodium carbonate forming calcium carbonate and sodium 
 hydroxide:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na<sub>2</sub>CO<sub>3</sub> + Ca(OH)<sub>2</sub> ---> CaCO<sub>3</sub> + 2NaOH (Double Displacement)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na<sub>2</sub>CO<sub>3</sub>(aq) + Ca(OH)<sub>2</sub>(s) ---> CaCO<sub>3</sub>(s) + 2NaOH(aq) (Double Displacement)
 
