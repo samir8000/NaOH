@@ -37,7 +37,7 @@ Areas of the home such as drains, sinks, discharge pipes, toilets, and waste bin
 <br>
 <br>
 ### Environmental Risk
-Sodium Hypochlorite, if directly inserted into an aquatic environment, is highly toxic to nearby aquatic life. Despite this, it does not pose an environmental risk, except in cases of its misuse. After sodium hypochlorite solutions (bleach) are used, they go through treatment plants, where they are diluted and decomposed to the extent that they pose no longer a risk to the environment. Further, the sodium hypochlorite that does reach fresh water decomposes due to factors such as sunlight, pH, temperature, and salinity. As a result, the only case in which sodium hypochlorite presents an environmental risk is its misuse, where it is directly spilled into the environment. (The Soap and Detergent Association, 1997)
+Sodium Hypochlorite, if directly inserted into an aquatic environment, is highly toxic to nearby aquatic life. Despite this, it does not pose an environmental risk, except in cases of its misuse. After sodium hypochlorite solutions (bleach) are used, they go through treatment plants, where they are diluted and decomposed to the extent that they pose no longer a risk to the environment. Further, the sodium hypochlorite that does reach fresh water decomposes due to factors such as sunlight, pH, temperature, and salinity. As a result, the only case in which sodium hypochlorite presents an environmental risk is its misuse, where it is directly spilled into the environment. (The Soap and Detergent Association, 1997)<br>
 <img src= "https://samir8000.github.io/NaOH/images/sodiumhypochlorite3.jpg"><br>
 <br>
 <br>
@@ -53,11 +53,11 @@ Centers for Disease Control and Prevention. (2019). Fluorosis. CDC.<br>
 Flores, A. C., Reyes, H. F., Moscoso, A. G., Cázares, J. P. C., & Guillén, A. D. P. (2009). Clinical<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Efficacy of 5% Sodium Hypochlorite for Removal of Stains Caused by Dental Fluorosis. Journal<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of Clinical Pediatric Dentistry, 33(3), 187–192.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://doi.org/10.17796/jcpd.33.3.c6282t1054584157](https://doi.org/10.17796/jcpd.33.3.c6282t1054584157)<br>     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://doi.org/10.17796/jcpd.33.3.c6282t1054584157](https://doi.org/10.17796/jcpd.33.3.c6282t1054584157)    
 <br>
 International Association for Soaps, Detergents and Maintenance Products. (1997, March). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BENEFITS AND SAFETY ASPECTS OF HYPOCHLORITE FORMULATED IN DOMESTIC PRODUCTS. AISE.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.aise.eu/cust/documentrequest.aspx?DocID=132](https://www.aise.eu/cust/documentrequest.aspx?DocID=132)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BENEFITS AND SAFETY ASPECTS OF HYPOCHLORITE FORMULATED IN DOMESTIC PRODUCTS.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AISE. [https://www.aise.eu/cust/documentrequest.aspx?DocID=132](https://www.aise.eu/cust/documentrequest.aspx?DocID=132)<br>
 <br>
 May, P. (2011, October). Sodium Hypochlorite. University of Bristol.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[http://www.chm.bris.ac.uk/motm/bleach/bleachh.htm](http://www.chm.bris.ac.uk/motm/bleach/bleachh.htm)  
