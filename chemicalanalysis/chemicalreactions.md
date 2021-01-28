@@ -23,22 +23,24 @@ sodium hydroxide ---> sodium oxide + water
 2NaOH(s) ---> Na<sub>2</sub>O(s)+H<sub>2</sub>O(g)
 <br>
 <br>
-## Chloralkali process (three methods):<br>
+
+## Reactions from Common Industrial Applications
+### Chloralkali process (three methods):<br>
 [Read more](https://github.com/samir8000/NaOH/blob/gh-pages/applications/industrial/chloralkali.md)
-### Mercury cell method: 
+#### Mercury cell method: 
 A sodium-mercury amalgam reacts with water forming Na+, OH-, H<sub>2</sub>, and Hg:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 Na (in Hg) + 2H<sub>2</sub>O ---> 2Na+ + 2OH- + H<sub>2</sub> + Hg<br>
 <br>The sodium and hydroxide ions then react forming sodium hydroxide:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na+ + OH- ---> NaOH<br><br>
 <br>
-### Diaphragm cell and membrane cell method: electrolysis of aqueous sodium chloride:
+#### Diaphragm cell and membrane cell method: electrolysis of aqueous sodium chloride:
 <br>
 <img src="https://samir8000.github.io/NaOH/images/electrolysis.png" width="700"/>
 <br>The sodium and hydroxide ions then react forming sodium hydroxide:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Na+ + OH- ---> NaOH<br><br>
 <br>
 <br>
-## Kraft Process
+### Kraft Process
 [Read more](https://github.com/samir8000/NaOH/blob/gh-pages/applications/industrial/kraft.md)<br>
 A solution of sodium hydroxide (main constituent) and sodium sulfate is used to chemically digest wood (under high temperatures) into cellulosic pulp for paper making:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NaOH + NaS<sub>2</sub> + Wood ---> Na-org. + S-org. + NaHS
