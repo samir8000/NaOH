@@ -109,7 +109,7 @@ The measurement of NR consists of the consumption of energy (X<sub>1,1</sub>), m
 <br>
 <br>
 #### EB: Environmental burden:
-The primary environmental burdens are associated with the air (X<sub>2,1</sub), water (X<sub>2,2</sub>), and land (X<sub>2,3</sub>).
+The primary environmental burdens are associated with the air (X<sub>2,1</sub>), water (X<sub>2,2</sub>), and land (X<sub>2,3</sub>).
 <br>
 Impact categories:
 ##### Air:
