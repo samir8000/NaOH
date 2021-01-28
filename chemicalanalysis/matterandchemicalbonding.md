@@ -69,7 +69,9 @@
   </tr>
 </tbody>
 </table>
-
+(National Center for Biotechnology Information, 2021a)
+(National Center for Biotechnology Information, 2021b)
+(National Center for Biotechnology Information, 2021c)
 
 <br>
 <br>
@@ -117,12 +119,13 @@
   </tr>
 </tbody>
 </table>
-
+(Jenkins, 2002)
 <br>
 <br>
 <br>
 <br>
 ## Compound's Properties
+(National Center for Biotechnology Information, 2021d)
 ### Physical Properties
 - White solid
 - Odourless
@@ -151,9 +154,26 @@
 <br>
 <br>
 <br>
+
 ## Electronegativity Difference of Bonds
 - **Na - O bond:** 2.57 (3.50 - 0.93)
 <br>
 - **O - H bond:** 1.4 (3.5 - 2.1)
-
-
+<br>
+<br>
+<br>
+<br>
+## References
+Jenkins, F. (2002). Nelson chemistry 11. Nelson Thomson Learning.<br>
+<br>
+National Center for Biotechnology Information (2021a). PubChem Element Summary for Atomic Number 1, Hydrogen.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen.](https://pubchem.ncbi.nlm.nih.gov/element/Hydrogen)<br>
+<br>
+National Center for Biotechnology Information (2021b). PubChem Element Summary for Atomic Number 8, Oxygen.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/element/Oxygen.](https://pubchem.ncbi.nlm.nih.gov/element/Oxygen)<br>
+<br>
+National Center for Biotechnology Information (2021c). PubChem Element Summary for Atomic Number 11, Sodium.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/element/Sodium.](https://pubchem.ncbi.nlm.nih.gov/element/Sodium)<br>
+<br>
+National Center for Biotechnology Information (2021d). PubChem Compound Summary for CID 14798, Sodium hydroxide.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide.](https://pubchem.ncbi.nlm.nih.gov/compound/Sodium-hydroxide)
