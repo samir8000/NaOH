@@ -28,7 +28,7 @@ sodium hydroxide ---> sodium oxide + water:name sodium <br>
 
 ## Reactions from Common Industrial Applications
 ### Chloralkali process (three methods):<br>
-[Read more](https://github.com/samir8000/NaOH/blob/gh-pages/applications/industrial/chloralkali.md)
+[Read more](https://samir8000.github.io/NaOH/applications/industrial/chloralkali)
 #### Mercury cell method: 
 A sodium-mercury amalgam reacts with water forming Na+, OH-, H<sub>2</sub>, and Hg:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 Na (in Hg) + 2H<sub>2</sub>O ---> 2Na+ + 2OH- + H<sub>2</sub> + Hg<br>
@@ -43,7 +43,7 @@ A sodium-mercury amalgam reacts with water forming Na+, OH-, H<sub>2</sub>, and 
 <br>
 <br>
 ### Kraft Process
-[Read more](https://github.com/samir8000/NaOH/blob/gh-pages/applications/industrial/kraft.md)<br>
+[Read more](https://samir8000.github.io/NaOH/applications/industrial/kraft)<br>
 A solution of sodium hydroxide (main constituent) and sodium sulfate is used to chemically digest wood (under high temperatures) into cellulosic pulp for paper making:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NaOH + NaS<sub>2</sub> + Wood ---> Na-org. + S-org. + NaHS
 <br><br>
