@@ -17,7 +17,7 @@ Sodium Hydroxide, otherwise referred to as caustic soda or lye, is an ionic comp
 <br>
 <br>
 
-## Applications and Environmental Effects
+## Applications and their Environmental Effects
 
 [In Industry](https://samir8000.github.io/NaOH/applications/industry)<br>
 <br>
